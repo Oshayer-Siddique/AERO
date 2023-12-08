@@ -1,0 +1,5558 @@
+[
+    {
+        "City": "Las Palmas de Gran Canaria",
+        "Coordinates": [
+            28.09973,
+            -15.41343
+        ],
+        "aqi": 28,
+        "Country": "Spain"
+    },
+    {
+        "City": "Salamanca",
+        "Coordinates": [
+            40.96882,
+            -5.66388
+        ],
+        "aqi": 20,
+        "Country": "Spain"
+    },
+    {
+        "City": "Barcelona",
+        "Coordinates": [
+            41.38879,
+            2.15899
+        ],
+        "aqi": 22,
+        "Country": "Spain"
+    },
+    {
+        "City": "Donostia / San Sebastián",
+        "Coordinates": [
+            43.31283,
+            -1.97499
+        ],
+        "aqi": 21,
+        "Country": "Spain"
+    },
+    {
+        "City": "Gasteiz / Vitoria",
+        "Coordinates": [
+            42.84998,
+            -2.67268
+        ],
+        "aqi": 2,
+        "Country": "Spain"
+    },
+    {
+        "City": "Córdoba",
+        "Coordinates": [
+            37.89155,
+            -4.77275
+        ],
+        "aqi": 49,
+        "Country": "Spain"
+    },
+    {
+        "City": "Valladolid",
+        "Coordinates": [
+            41.65518,
+            -4.72372
+        ],
+        "aqi": 6,
+        "Country": "Spain"
+    },
+    {
+        "City": "Santander",
+        "Coordinates": [
+            43.46472,
+            -3.80444
+        ],
+        "aqi": 31,
+        "Country": "Spain"
+    },
+    {
+        "City": "Palma",
+        "Coordinates": [
+            39.56939,
+            2.65024
+        ],
+        "aqi": 24,
+        "Country": "Spain"
+    },
+    {
+        "City": "Málaga",
+        "Coordinates": [
+            36.72016,
+            -4.42034
+        ],
+        "aqi": 31,
+        "Country": "Spain"
+    },
+    {
+        "City": "Zaragoza",
+        "Coordinates": [
+            41.65606,
+            -0.87734
+        ],
+        "aqi": 25,
+        "Country": "Spain"
+    },
+    {
+        "City": "Sevilla",
+        "Coordinates": [
+            37.38283,
+            -5.97317
+        ],
+        "aqi": 24,
+        "Country": "Spain"
+    },
+    {
+        "City": "Bilbao",
+        "Coordinates": [
+            43.26271,
+            -2.92528
+        ],
+        "aqi": 9,
+        "Country": "Spain"
+    },
+    {
+        "City": "Pamplona",
+        "Coordinates": [
+            42.81687,
+            -1.64323
+        ],
+        "aqi": 15,
+        "Country": "Spain"
+    },
+    {
+        "City": "Castelló de la Plana",
+        "Coordinates": [
+            39.98567,
+            -0.04935
+        ],
+        "aqi": 27,
+        "Country": "Spain"
+    },
+    {
+        "City": "Huelva",
+        "Coordinates": [
+            37.26638,
+            -6.94004
+        ],
+        "aqi": 26,
+        "Country": "Spain"
+    },
+    {
+        "City": "Granada",
+        "Coordinates": [
+            37.18817,
+            -3.60667
+        ],
+        "aqi": 23,
+        "Country": "Spain"
+    },
+    {
+        "City": "Madrid",
+        "Coordinates": [
+            40.4165,
+            -3.70256
+        ],
+        "aqi": 20,
+        "Country": "Spain"
+    },
+    {
+        "City": "Valencia",
+        "Coordinates": [
+            39.46975,
+            -0.37739
+        ],
+        "aqi": 24,
+        "Country": "Spain"
+    },
+    {
+        "City": "Burgos",
+        "Coordinates": [
+            42.34106,
+            -3.70184
+        ],
+        "aqi": 30,
+        "Country": "Spain"
+    },
+    {
+        "City": "Murcia",
+        "Coordinates": [
+            37.98704,
+            -1.13004
+        ],
+        "aqi": 24,
+        "Country": "Spain"
+    },
+    {
+        "City": "Santa Cruz de Tenerife",
+        "Coordinates": [
+            28.46824,
+            -16.25462
+        ],
+        "aqi": 21,
+        "Country": "Spain"
+    },
+    {
+        "City": "Oviedo",
+        "Coordinates": [
+            43.36029,
+            -5.84476
+        ],
+        "aqi": 21,
+        "Country": "Spain"
+    },
+    {
+        "City": "Tours",
+        "Coordinates": [
+            47.39484,
+            0.70398
+        ],
+        "aqi": 24,
+        "Country": "France"
+    },
+    {
+        "City": "Marseille",
+        "Coordinates": [
+            43.29695,
+            5.38107
+        ],
+        "aqi": 23,
+        "Country": "France"
+    },
+    {
+        "City": "Nîmes",
+        "Coordinates": [
+            43.83378,
+            4.35962
+        ],
+        "aqi": 20,
+        "Country": "France"
+    },
+    {
+        "City": "Besançon",
+        "Coordinates": [
+            47.24878,
+            6.01815
+        ],
+        "aqi": 29,
+        "Country": "France"
+    },
+    {
+        "City": "Nantes",
+        "Coordinates": [
+            47.21725,
+            -1.55336
+        ],
+        "aqi": 27,
+        "Country": "France"
+    },
+    {
+        "City": "Rennes",
+        "Coordinates": [
+            48.11198,
+            -1.67429
+        ],
+        "aqi": 24,
+        "Country": "France"
+    },
+    {
+        "City": "Toulouse",
+        "Coordinates": [
+            43.60426,
+            1.44367
+        ],
+        "aqi": 28,
+        "Country": "France"
+    },
+    {
+        "City": "Nancy",
+        "Coordinates": [
+            48.68439,
+            6.18496
+        ],
+        "aqi": 27,
+        "Country": "France"
+    },
+    {
+        "City": "Clermont-Ferrand",
+        "Coordinates": [
+            45.77969,
+            3.08682
+        ],
+        "aqi": 16,
+        "Country": "France"
+    },
+    {
+        "City": "Paris",
+        "Coordinates": [
+            48.85341,
+            2.3488
+        ],
+        "aqi": 35,
+        "Country": "France"
+    },
+    {
+        "City": "Lille",
+        "Coordinates": [
+            50.63297,
+            3.05858
+        ],
+        "aqi": 46,
+        "Country": "France"
+    },
+    {
+        "City": "Orléans",
+        "Coordinates": [
+            47.90289,
+            1.90389
+        ],
+        "aqi": 28,
+        "Country": "France"
+    },
+    {
+        "City": "Montpellier",
+        "Coordinates": [
+            43.61092,
+            3.87723
+        ],
+        "aqi": 27,
+        "Country": "France"
+    },
+    {
+        "City": "Lyon",
+        "Coordinates": [
+            45.74846,
+            4.84671
+        ],
+        "aqi": 10,
+        "Country": "France"
+    },
+    {
+        "City": "Amiens",
+        "Coordinates": [
+            49.9,
+            2.3
+        ],
+        "aqi": 13,
+        "Country": "France"
+    },
+    {
+        "City": "Dijon",
+        "Coordinates": [
+            47.31667,
+            5.01667
+        ],
+        "aqi": 20,
+        "Country": "France"
+    },
+    {
+        "City": "Rouen",
+        "Coordinates": [
+            49.44313,
+            1.09932
+        ],
+        "aqi": 22,
+        "Country": "France"
+    },
+    {
+        "City": "Grenoble",
+        "Coordinates": [
+            45.17869,
+            5.71479
+        ],
+        "aqi": 7,
+        "Country": "France"
+    },
+    {
+        "City": "Toulon",
+        "Coordinates": [
+            43.12442,
+            5.92836
+        ],
+        "aqi": 12,
+        "Country": "France"
+    },
+    {
+        "City": "Limoges",
+        "Coordinates": [
+            45.83362,
+            1.24759
+        ],
+        "aqi": 2,
+        "Country": "France"
+    },
+    {
+        "City": "Caen",
+        "Coordinates": [
+            49.18585,
+            -0.35912
+        ],
+        "aqi": 23,
+        "Country": "France"
+    },
+    {
+        "City": "Perpignan",
+        "Coordinates": [
+            42.69764,
+            2.89541
+        ],
+        "aqi": 28,
+        "Country": "France"
+    },
+    {
+        "City": "Bordeaux",
+        "Coordinates": [
+            44.84044,
+            -0.5805
+        ],
+        "aqi": 24,
+        "Country": "France"
+    },
+    {
+        "City": "Nice",
+        "Coordinates": [
+            43.70313,
+            7.26608
+        ],
+        "aqi": 26,
+        "Country": "France"
+    },
+    {
+        "City": "Saint-Étienne",
+        "Coordinates": [
+            45.43389,
+            4.39
+        ],
+        "aqi": 6,
+        "Country": "France"
+    },
+    {
+        "City": "Metz",
+        "Coordinates": [
+            49.11911,
+            6.17269
+        ],
+        "aqi": 25,
+        "Country": "France"
+    },
+    {
+        "City": "Strasbourg",
+        "Coordinates": [
+            48.58392,
+            7.74553
+        ],
+        "aqi": 17,
+        "Country": "France"
+    },
+    {
+        "City": "Zagreb",
+        "Coordinates": [
+            45.81444,
+            15.97798
+        ],
+        "aqi": 18,
+        "Country": "Croatia"
+    },
+    {
+        "City": "Rijeka",
+        "Coordinates": [
+            45.32673,
+            14.44241
+        ],
+        "aqi": 31,
+        "Country": "Croatia"
+    },
+    {
+        "City": "Split",
+        "Coordinates": [
+            43.50891,
+            16.43915
+        ],
+        "aqi": 4,
+        "Country": "Croatia"
+    },
+    {
+        "City": "Ecatepec de Morelos",
+        "Coordinates": [
+            19.60492,
+            -99.06064
+        ],
+        "aqi": "-",
+        "Country": "New Zealand"
+    },
+    {
+        "City": "Guadalajara",
+        "Coordinates": [
+            20.66682,
+            -103.39182
+        ],
+        "aqi": 115,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Cuernavaca",
+        "Coordinates": [
+            18.9261,
+            -99.23075
+        ],
+        "aqi": 50,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Puebla",
+        "Coordinates": [
+            19.03793,
+            -98.20346
+        ],
+        "aqi": 152,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Mexico City",
+        "Coordinates": [
+            19.42847,
+            -99.12766
+        ],
+        "aqi": 59,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Morelia",
+        "Coordinates": [
+            19.70078,
+            -101.18443
+        ],
+        "aqi": 63,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Mérida",
+        "Coordinates": [
+            20.97537,
+            -89.61696
+        ],
+        "aqi": 32,
+        "Country": "Mexico"
+    },
+    {
+        "City": "San Luis Potosí",
+        "Coordinates": [
+            22.14982,
+            -100.97916
+        ],
+        "aqi": 13,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Chihuahua",
+        "Coordinates": [
+            28.63528,
+            -106.08889
+        ],
+        "aqi": 59,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Monterrey",
+        "Coordinates": [
+            25.67507,
+            -100.31847
+        ],
+        "aqi": 71,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Pachuca de Soto",
+        "Coordinates": [
+            20.11697,
+            -98.73329
+        ],
+        "aqi": 34,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Tepic",
+        "Coordinates": [
+            21.50951,
+            -104.89569
+        ],
+        "aqi": 27,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Toluca",
+        "Coordinates": [
+            19.28786,
+            -99.65324
+        ],
+        "aqi": 78,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Aguascalientes",
+        "Coordinates": [
+            21.88234,
+            -102.28259
+        ],
+        "aqi": 25,
+        "Country": "Mexico"
+    },
+    {
+        "City": "Oaxaca",
+        "Coordinates": [
+            17.06542,
+            -96.72365
+        ],
+        "aqi": "-",
+        "Country": "United States"
+    },
+    {
+        "City": "Hamilton",
+        "Coordinates": [
+            43.25011,
+            -79.84963
+        ],
+        "aqi": 30,
+        "Country": "New Zealand"
+    },
+    {
+        "City": "Calgary",
+        "Coordinates": [
+            51.05011,
+            -114.08529
+        ],
+        "aqi": 95,
+        "Country": "Canada"
+    },
+    {
+        "City": "Winnipeg",
+        "Coordinates": [
+            49.8844,
+            -97.14704
+        ],
+        "aqi": 23,
+        "Country": "Canada"
+    },
+    {
+        "City": "Halifax",
+        "Coordinates": [
+            44.6464,
+            -63.57291
+        ],
+        "aqi": 23,
+        "Country": "Canada"
+    },
+    {
+        "City": "Kitchener",
+        "Coordinates": [
+            43.42537,
+            -80.5112
+        ],
+        "aqi": 20,
+        "Country": "Canada"
+    },
+    {
+        "City": "Edmonton",
+        "Coordinates": [
+            53.55014,
+            -113.46871
+        ],
+        "aqi": 65,
+        "Country": "Canada"
+    },
+    {
+        "City": "Surrey",
+        "Coordinates": [
+            49.10635,
+            -122.82509
+        ],
+        "aqi": 6,
+        "Country": "Canada"
+    },
+    {
+        "City": "Mississauga",
+        "Coordinates": [
+            43.5789,
+            -79.6583
+        ],
+        "aqi": 30,
+        "Country": "Canada"
+    },
+    {
+        "City": "Québec",
+        "Coordinates": [
+            46.81228,
+            -71.21454
+        ],
+        "aqi": 35,
+        "Country": "Canada"
+    },
+    {
+        "City": "Vancouver",
+        "Coordinates": [
+            49.24966,
+            -123.11934
+        ],
+        "aqi": 13,
+        "Country": "Canada"
+    },
+    {
+        "City": "Victoria",
+        "Coordinates": [
+            48.4359,
+            -123.35155
+        ],
+        "aqi": 15,
+        "Country": "Canada"
+    },
+    {
+        "City": "Montréal",
+        "Coordinates": [
+            45.50884,
+            -73.58781
+        ],
+        "aqi": 24,
+        "Country": "Canada"
+    },
+    {
+        "City": "Toronto",
+        "Coordinates": [
+            43.70011,
+            -79.4163
+        ],
+        "aqi": 34,
+        "Country": "Canada"
+    },
+    {
+        "City": "Ottawa",
+        "Coordinates": [
+            45.41117,
+            -75.69812
+        ],
+        "aqi": 25,
+        "Country": "Canada"
+    },
+    {
+        "City": "London",
+        "Coordinates": [
+            42.98339,
+            -81.23304
+        ],
+        "aqi": 129,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Rancagua",
+        "Coordinates": [
+            -34.17083,
+            -70.74444
+        ],
+        "aqi": 21,
+        "Country": "Chile"
+    },
+    {
+        "City": "Osorno",
+        "Coordinates": [
+            -40.57395,
+            -73.13348
+        ],
+        "aqi": 93,
+        "Country": "Chile"
+    },
+    {
+        "City": "Los Ángeles",
+        "Coordinates": [
+            -37.46973,
+            -72.35366
+        ],
+        "aqi": 58,
+        "Country": "Chile"
+    },
+    {
+        "City": "Chillán",
+        "Coordinates": [
+            -36.60664,
+            -72.10344
+        ],
+        "aqi": 46,
+        "Country": "Chile"
+    },
+    {
+        "City": "Calama",
+        "Coordinates": [
+            -22.45667,
+            -68.92371
+        ],
+        "aqi": 27,
+        "Country": "Chile"
+    },
+    {
+        "City": "Puerto Montt",
+        "Coordinates": [
+            -41.4693,
+            -72.94237
+        ],
+        "aqi": 9,
+        "Country": "Chile"
+    },
+    {
+        "City": "Valparaíso",
+        "Coordinates": [
+            -33.036,
+            -71.62963
+        ],
+        "aqi": 14,
+        "Country": "Chile"
+    },
+    {
+        "City": "Quilpué",
+        "Coordinates": [
+            -33.04752,
+            -71.44249
+        ],
+        "aqi": 51,
+        "Country": "Chile"
+    },
+    {
+        "City": "Santiago",
+        "Coordinates": [
+            -33.45694,
+            -70.64827
+        ],
+        "aqi": "-",
+        "Country": "South Africa"
+    },
+    {
+        "City": "Talca",
+        "Coordinates": [
+            -35.4264,
+            -71.65542
+        ],
+        "aqi": 25,
+        "Country": "Chile"
+    },
+    {
+        "City": "Concepción",
+        "Coordinates": [
+            -36.82699,
+            -73.04977
+        ],
+        "aqi": 61,
+        "Country": "Chile"
+    },
+    {
+        "City": "Temuco",
+        "Coordinates": [
+            -38.73965,
+            -72.59842
+        ],
+        "aqi": 55,
+        "Country": "Chile"
+    },
+    {
+        "City": "Prague",
+        "Coordinates": [
+            50.08804,
+            14.42076
+        ],
+        "aqi": 13,
+        "Country": "Czech Republic"
+    },
+    {
+        "City": "Ostrava",
+        "Coordinates": [
+            49.83465,
+            18.28204
+        ],
+        "aqi": 30,
+        "Country": "Czech Republic"
+    },
+    {
+        "City": "Brno",
+        "Coordinates": [
+            49.19522,
+            16.60796
+        ],
+        "aqi": 10,
+        "Country": "Czech Republic"
+    },
+    {
+        "City": "Pilsen",
+        "Coordinates": [
+            49.74747,
+            13.37759
+        ],
+        "aqi": 14,
+        "Country": "Czech Republic"
+    },
+    {
+        "City": "Olomouc",
+        "Coordinates": [
+            49.59552,
+            17.25175
+        ],
+        "aqi": 17,
+        "Country": "Czech Republic"
+    },
+    {
+        "City": "Addis Ababa",
+        "Coordinates": [
+            9.02497,
+            38.74689
+        ],
+        "aqi": 34,
+        "Country": "Ethiopia"
+    },
+    {
+        "City": "Tbilisi",
+        "Coordinates": [
+            41.69411,
+            44.83368
+        ],
+        "aqi": 128,
+        "Country": "Georgia"
+    },
+    {
+        "City": "Reykjavík",
+        "Coordinates": [
+            64.13548,
+            -21.89541
+        ],
+        "aqi": 73,
+        "Country": "Iceland"
+    },
+    {
+        "City": "Kaunas",
+        "Coordinates": [
+            54.90272,
+            23.90961
+        ],
+        "aqi": 21,
+        "Country": "Lithuania"
+    },
+    {
+        "City": "Saint-Denis",
+        "Coordinates": [
+            -20.88231,
+            55.4504
+        ],
+        "aqi": 18,
+        "Country": "France (Réunion)"
+    },
+    {
+        "City": "Abidjan",
+        "Coordinates": [
+            5.35444,
+            -4.00167
+        ],
+        "aqi": 55,
+        "Country": "Ivory Coast"
+    },
+    {
+        "City": "San José",
+        "Coordinates": [
+            9.93333,
+            -84.08333
+        ],
+        "aqi": 59,
+        "Country": "Costa Rica"
+    },
+    {
+        "City": "Willemstad",
+        "Coordinates": [
+            12.1084,
+            -68.93354
+        ],
+        "aqi": "-",
+        "Country": "South Africa"
+    },
+    {
+        "City": "Eskişehir",
+        "Coordinates": [
+            39.77667,
+            30.52056
+        ],
+        "aqi": 70,
+        "Country": "Turkey"
+    },
+    {
+        "City": "İzmit",
+        "Coordinates": [
+            40.76499,
+            29.92928
+        ],
+        "aqi": 72,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Bursa",
+        "Coordinates": [
+            40.19559,
+            29.06013
+        ],
+        "aqi": 77,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Ankara",
+        "Coordinates": [
+            39.91987,
+            32.85427
+        ],
+        "aqi": 60,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Adana",
+        "Coordinates": [
+            36.98615,
+            35.32531
+        ],
+        "aqi": 108,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Kayseri",
+        "Coordinates": [
+            38.73222,
+            35.48528
+        ],
+        "aqi": 25,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Kütahya",
+        "Coordinates": [
+            39.42417,
+            29.98333
+        ],
+        "aqi": 75,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Balıkesir",
+        "Coordinates": [
+            39.64917,
+            27.88611
+        ],
+        "aqi": 76,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Adapazarı",
+        "Coordinates": [
+            40.78056,
+            30.40333
+        ],
+        "aqi": 73,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Trabzon",
+        "Coordinates": [
+            41.005,
+            39.72694
+        ],
+        "aqi": 53,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Antakya",
+        "Coordinates": [
+            36.20655,
+            36.15722
+        ],
+        "aqi": 401,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Samsun",
+        "Coordinates": [
+            41.27976,
+            36.3361
+        ],
+        "aqi": 82,
+        "Country": "Turkey"
+    },
+    {
+        "City": "İzmir",
+        "Coordinates": [
+            38.41273,
+            27.13838
+        ],
+        "aqi": 57,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Konya",
+        "Coordinates": [
+            37.87135,
+            32.48464
+        ],
+        "aqi": 49,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Sivas",
+        "Coordinates": [
+            39.74833,
+            37.01611
+        ],
+        "aqi": 66,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Istanbul",
+        "Coordinates": [
+            41.01384,
+            28.94966
+        ],
+        "aqi": 45,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Denizli",
+        "Coordinates": [
+            37.77417,
+            29.0875
+        ],
+        "aqi": 53,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Erzurum",
+        "Coordinates": [
+            39.90861,
+            41.27694
+        ],
+        "aqi": 57,
+        "Country": "Turkey"
+    },
+    {
+        "City": "Pristina",
+        "Coordinates": [
+            42.67272,
+            21.16688
+        ],
+        "aqi": 76,
+        "Country": "Kosovo"
+    },
+    {
+        "City": "Accra",
+        "Coordinates": [
+            5.55602,
+            -0.1969
+        ],
+        "aqi": 61,
+        "Country": "Ghana"
+    },
+    {
+        "City": "Amman",
+        "Coordinates": [
+            31.95522,
+            35.94503
+        ],
+        "aqi": 46,
+        "Country": "Jordan"
+    },
+    {
+        "City": "Irbid",
+        "Coordinates": [
+            32.55556,
+            35.85
+        ],
+        "aqi": 30,
+        "Country": "Jordan"
+    },
+    {
+        "City": "Zarqa",
+        "Coordinates": [
+            32.07275,
+            36.08796
+        ],
+        "aqi": 40,
+        "Country": "Jordan"
+    },
+    {
+        "City": "Colombo",
+        "Coordinates": [
+            6.93548,
+            79.84868
+        ],
+        "aqi": 21,
+        "Country": "Sri Lanka"
+    },
+    {
+        "City": "Utrecht",
+        "Coordinates": [
+            52.09083,
+            5.12222
+        ],
+        "aqi": 15,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Nijmegen",
+        "Coordinates": [
+            51.8425,
+            5.85278
+        ],
+        "aqi": 27,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Haarlem",
+        "Coordinates": [
+            52.38084,
+            4.63683
+        ],
+        "aqi": 25,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Eindhoven",
+        "Coordinates": [
+            51.44083,
+            5.47778
+        ],
+        "aqi": 22,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Rotterdam",
+        "Coordinates": [
+            51.9225,
+            4.47917
+        ],
+        "aqi": 15,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Amsterdam",
+        "Coordinates": [
+            52.37403,
+            4.88969
+        ],
+        "aqi": 18,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Dordrecht",
+        "Coordinates": [
+            51.81,
+            4.67361
+        ],
+        "aqi": 6,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Breda",
+        "Coordinates": [
+            51.58656,
+            4.77596
+        ],
+        "aqi": 18,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Groningen",
+        "Coordinates": [
+            53.21917,
+            6.56667
+        ],
+        "aqi": 12,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Maastricht",
+        "Coordinates": [
+            50.84833,
+            5.68889
+        ],
+        "aqi": 12,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "The Hague",
+        "Coordinates": [
+            52.07667,
+            4.29861
+        ],
+        "aqi": 15,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Karachi",
+        "Coordinates": [
+            24.8608,
+            67.0104
+        ],
+        "aqi": 109,
+        "Country": "Pakistan"
+    },
+    {
+        "City": "Peshawar",
+        "Coordinates": [
+            34.008,
+            71.57849
+        ],
+        "aqi": 155,
+        "Country": "Pakistan"
+    },
+    {
+        "City": "Islamabad",
+        "Coordinates": [
+            33.72148,
+            73.04329
+        ],
+        "aqi": 97,
+        "Country": "Pakistan"
+    },
+    {
+        "City": "Lahore",
+        "Coordinates": [
+            31.558,
+            74.35071
+        ],
+        "aqi": 201,
+        "Country": "Pakistan"
+    },
+    {
+        "City": "Salzburg",
+        "Coordinates": [
+            47.79941,
+            13.04399
+        ],
+        "aqi": 2,
+        "Country": "Austria"
+    },
+    {
+        "City": "Linz",
+        "Coordinates": [
+            48.30639,
+            14.28611
+        ],
+        "aqi": 5,
+        "Country": "Austria"
+    },
+    {
+        "City": "Innsbruck",
+        "Coordinates": [
+            47.26266,
+            11.39454
+        ],
+        "aqi": 4,
+        "Country": "Austria"
+    },
+    {
+        "City": "Vienna",
+        "Coordinates": [
+            48.20849,
+            16.37208
+        ],
+        "aqi": 9,
+        "Country": "Austria"
+    },
+    {
+        "City": "Graz",
+        "Coordinates": [
+            47.06667,
+            15.45
+        ],
+        "aqi": 4,
+        "Country": "Austria"
+    },
+    {
+        "City": "Sydney",
+        "Coordinates": [
+            -33.86785,
+            151.20732
+        ],
+        "aqi": 7,
+        "Country": "Australia"
+    },
+    {
+        "City": "Newcastle",
+        "Coordinates": [
+            -32.92953,
+            151.7801
+        ],
+        "aqi": 24,
+        "Country": "Australia"
+    },
+    {
+        "City": "Launceston",
+        "Coordinates": [
+            -41.43876,
+            147.13467
+        ],
+        "aqi": 13,
+        "Country": "Australia"
+    },
+    {
+        "City": "Hobart",
+        "Coordinates": [
+            -42.87936,
+            147.32941
+        ],
+        "aqi": 5,
+        "Country": "Australia"
+    },
+    {
+        "City": "Darwin",
+        "Coordinates": [
+            -12.46113,
+            130.84185
+        ],
+        "aqi": 67,
+        "Country": "Australia"
+    },
+    {
+        "City": "Melbourne",
+        "Coordinates": [
+            -37.814,
+            144.96332
+        ],
+        "aqi": 23,
+        "Country": "Australia"
+    },
+    {
+        "City": "Canberra",
+        "Coordinates": [
+            -35.28346,
+            149.12807
+        ],
+        "aqi": 8,
+        "Country": "Australia"
+    },
+    {
+        "City": "Adelaide",
+        "Coordinates": [
+            -34.92866,
+            138.59863
+        ],
+        "aqi": 29,
+        "Country": "Australia"
+    },
+    {
+        "City": "Brisbane",
+        "Coordinates": [
+            -27.46794,
+            153.02809
+        ],
+        "aqi": 25,
+        "Country": "Australia"
+    },
+    {
+        "City": "Perth",
+        "Coordinates": [
+            -31.95224,
+            115.8614
+        ],
+        "aqi": 11,
+        "Country": "Australia"
+    },
+    {
+        "City": "Wollongong",
+        "Coordinates": [
+            -34.424,
+            150.89345
+        ],
+        "aqi": 20,
+        "Country": "Australia"
+    },
+    {
+        "City": "Edinburgh",
+        "Coordinates": [
+            55.95206,
+            -3.19648
+        ],
+        "aqi": 10,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Norwich",
+        "Coordinates": [
+            52.62783,
+            1.29834
+        ],
+        "aqi": 23,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Liverpool",
+        "Coordinates": [
+            53.41058,
+            -2.97794
+        ],
+        "aqi": 19,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Belfast",
+        "Coordinates": [
+            54.59682,
+            -5.92541
+        ],
+        "aqi": 46,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Coventry",
+        "Coordinates": [
+            52.40656,
+            -1.51217
+        ],
+        "aqi": 18,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Leeds",
+        "Coordinates": [
+            53.79648,
+            -1.54785
+        ],
+        "aqi": 20,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Cardiff",
+        "Coordinates": [
+            51.48,
+            -3.18
+        ],
+        "aqi": 59,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Bristol",
+        "Coordinates": [
+            51.45523,
+            -2.59665
+        ],
+        "aqi": 18,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "London",
+        "Coordinates": [
+            51.50853,
+            -0.12574
+        ],
+        "aqi": 129,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Birmingham",
+        "Coordinates": [
+            52.48142,
+            -1.89983
+        ],
+        "aqi": 13,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Sheffield",
+        "Coordinates": [
+            53.38297,
+            -1.4659
+        ],
+        "aqi": 20,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Newport",
+        "Coordinates": [
+            51.58774,
+            -2.99835
+        ],
+        "aqi": 21,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Leicester",
+        "Coordinates": [
+            52.6386,
+            -1.13169
+        ],
+        "aqi": 14,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Manchester",
+        "Coordinates": [
+            53.48095,
+            -2.23743
+        ],
+        "aqi": 35,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Reading",
+        "Coordinates": [
+            51.45625,
+            -0.97113
+        ],
+        "aqi": 19,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Plymouth",
+        "Coordinates": [
+            50.37153,
+            -4.14305
+        ],
+        "aqi": 19,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Glasgow",
+        "Coordinates": [
+            55.86515,
+            -4.25763
+        ],
+        "aqi": 16,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Preston",
+        "Coordinates": [
+            53.76282,
+            -2.70452
+        ],
+        "aqi": 20,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Swansea",
+        "Coordinates": [
+            51.62079,
+            -3.94323
+        ],
+        "aqi": 46,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Luton",
+        "Coordinates": [
+            51.87967,
+            -0.41748
+        ],
+        "aqi": "-",
+        "Country": "Puerto Rico"
+    },
+    {
+        "City": "Southend-on-Sea",
+        "Coordinates": [
+            51.53782,
+            0.71433
+        ],
+        "aqi": 23,
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Ploieşti",
+        "Coordinates": [
+            44.95,
+            26.01667
+        ],
+        "aqi": 9,
+        "Country": "Romania"
+    },
+    {
+        "City": "Craiova",
+        "Coordinates": [
+            44.31667,
+            23.8
+        ],
+        "aqi": 24,
+        "Country": "Romania"
+    },
+    {
+        "City": "Bacău",
+        "Coordinates": [
+            46.56718,
+            26.91384
+        ],
+        "aqi": 5,
+        "Country": "Romania"
+    },
+    {
+        "City": "Râmnicu Vâlcea",
+        "Coordinates": [
+            45.1,
+            24.36667
+        ],
+        "aqi": 7,
+        "Country": "Romania"
+    },
+    {
+        "City": "Sibiu",
+        "Coordinates": [
+            45.8,
+            24.15
+        ],
+        "aqi": 2,
+        "Country": "Romania"
+    },
+    {
+        "City": "Timişoara",
+        "Coordinates": [
+            45.75372,
+            21.22571
+        ],
+        "aqi": 4,
+        "Country": "Romania"
+    },
+    {
+        "City": "Piteşti",
+        "Coordinates": [
+            44.85,
+            24.86667
+        ],
+        "aqi": 2,
+        "Country": "Romania"
+    },
+    {
+        "City": "Arad",
+        "Coordinates": [
+            46.18333,
+            21.31667
+        ],
+        "aqi": 18,
+        "Country": "Romania"
+    },
+    {
+        "City": "Cluj-Napoca",
+        "Coordinates": [
+            46.76667,
+            23.6
+        ],
+        "aqi": 19,
+        "Country": "Romania"
+    },
+    {
+        "City": "Bucharest",
+        "Coordinates": [
+            44.43225,
+            26.10626
+        ],
+        "aqi": 21,
+        "Country": "Romania"
+    },
+    {
+        "City": "Baia Mare",
+        "Coordinates": [
+            47.65729,
+            23.56808
+        ],
+        "aqi": 3,
+        "Country": "Romania"
+    },
+    {
+        "City": "Oradea",
+        "Coordinates": [
+            47.0458,
+            21.91833
+        ],
+        "aqi": 48,
+        "Country": "Romania"
+    },
+    {
+        "City": "Galaţi",
+        "Coordinates": [
+            45.43687,
+            28.05028
+        ],
+        "aqi": 29,
+        "Country": "Romania"
+    },
+    {
+        "City": "Braşov",
+        "Coordinates": [
+            45.64861,
+            25.60613
+        ],
+        "aqi": 28,
+        "Country": "Romania"
+    },
+    {
+        "City": "Iaşi",
+        "Coordinates": [
+            47.16667,
+            27.6
+        ],
+        "aqi": 2,
+        "Country": "Romania"
+    },
+    {
+        "City": "Constanţa",
+        "Coordinates": [
+            44.18073,
+            28.63432
+        ],
+        "aqi": 7,
+        "Country": "Romania"
+    },
+    {
+        "City": "Brăila",
+        "Coordinates": [
+            45.27152,
+            27.97429
+        ],
+        "aqi": 23,
+        "Country": "Romania"
+    },
+    {
+        "City": "Dushanbe",
+        "Coordinates": [
+            38.53575,
+            68.77905
+        ],
+        "aqi": 160,
+        "Country": "Tajikistan"
+    },
+    {
+        "City": "Ho Chi Minh City",
+        "Coordinates": [
+            10.82302,
+            106.62965
+        ],
+        "aqi": 53,
+        "Country": "Vietnam"
+    },
+    {
+        "City": "Huế",
+        "Coordinates": [
+            16.4619,
+            107.59546
+        ],
+        "aqi": 15,
+        "Country": "Vietnam"
+    },
+    {
+        "City": "Hanoi",
+        "Coordinates": [
+            21.0245,
+            105.84117
+        ],
+        "aqi": 97,
+        "Country": "Vietnam"
+    },
+    {
+        "City": "Haiphong",
+        "Coordinates": [
+            20.86481,
+            106.68345
+        ],
+        "aqi": "-",
+        "Country": "Brazil"
+    },
+    {
+        "City": "Hạ Long",
+        "Coordinates": [
+            20.95045,
+            107.07336
+        ],
+        "aqi": 21,
+        "Country": "Vietnam"
+    },
+    {
+        "City": "Stuttgart",
+        "Coordinates": [
+            48.78232,
+            9.17702
+        ],
+        "aqi": 20,
+        "Country": "Germany"
+    },
+    {
+        "City": "Münster",
+        "Coordinates": [
+            51.96236,
+            7.62571
+        ],
+        "aqi": 24,
+        "Country": "Germany"
+    },
+    {
+        "City": "Köln",
+        "Coordinates": [
+            50.93333,
+            6.95
+        ],
+        "aqi": 26,
+        "Country": "Germany"
+    },
+    {
+        "City": "Kassel",
+        "Coordinates": [
+            51.31667,
+            9.5
+        ],
+        "aqi": 35,
+        "Country": "Germany"
+    },
+    {
+        "City": "Karlsruhe",
+        "Coordinates": [
+            49.00937,
+            8.40444
+        ],
+        "aqi": 19,
+        "Country": "Germany"
+    },
+    {
+        "City": "Mainz",
+        "Coordinates": [
+            49.98419,
+            8.2791
+        ],
+        "aqi": 5,
+        "Country": "Germany"
+    },
+    {
+        "City": "Dresden",
+        "Coordinates": [
+            51.05089,
+            13.73832
+        ],
+        "aqi": 19,
+        "Country": "Germany"
+    },
+    {
+        "City": "Munich",
+        "Coordinates": [
+            48.13743,
+            11.57549
+        ],
+        "aqi": "-",
+        "Country": "Italy"
+    },
+    {
+        "City": "Berlin",
+        "Coordinates": [
+            52.52437,
+            13.41053
+        ],
+        "aqi": 34,
+        "Country": "Germany"
+    },
+    {
+        "City": "Düsseldorf",
+        "Coordinates": [
+            51.22172,
+            6.77616
+        ],
+        "aqi": 11,
+        "Country": "Germany"
+    },
+    {
+        "City": "Freiburg",
+        "Coordinates": [
+            47.9959,
+            7.85222
+        ],
+        "aqi": 28,
+        "Country": "Germany"
+    },
+    {
+        "City": "Wiesbaden",
+        "Coordinates": [
+            50.08258,
+            8.24932
+        ],
+        "aqi": 21,
+        "Country": "Germany"
+    },
+    {
+        "City": "Hannover",
+        "Coordinates": [
+            52.37052,
+            9.73322
+        ],
+        "aqi": 25,
+        "Country": "Germany"
+    },
+    {
+        "City": "Augsburg",
+        "Coordinates": [
+            48.37154,
+            10.89851
+        ],
+        "aqi": 11,
+        "Country": "Germany"
+    },
+    {
+        "City": "Darmstadt",
+        "Coordinates": [
+            49.87167,
+            8.65027
+        ],
+        "aqi": 20,
+        "Country": "Germany"
+    },
+    {
+        "City": "Potsdam",
+        "Coordinates": [
+            52.39886,
+            13.06566
+        ],
+        "aqi": 25,
+        "Country": "Germany"
+    },
+    {
+        "City": "Hamburg",
+        "Coordinates": [
+            53.55073,
+            9.99302
+        ],
+        "aqi": 19,
+        "Country": "Germany"
+    },
+    {
+        "City": "Tel Aviv",
+        "Coordinates": [
+            32.08088,
+            34.78057
+        ],
+        "aqi": 70,
+        "Country": "Israel"
+    },
+    {
+        "City": "Haifa",
+        "Coordinates": [
+            32.81841,
+            34.9885
+        ],
+        "aqi": 52,
+        "Country": "Israel"
+    },
+    {
+        "City": "Jerusalem",
+        "Coordinates": [
+            31.76904,
+            35.21633
+        ],
+        "aqi": 68,
+        "Country": "Israel"
+    },
+    {
+        "City": "Ashdod",
+        "Coordinates": [
+            31.79213,
+            34.64966
+        ],
+        "aqi": 68,
+        "Country": "Israel"
+    },
+    {
+        "City": "Netanya",
+        "Coordinates": [
+            32.33291,
+            34.85992
+        ],
+        "aqi": 82,
+        "Country": "Israel"
+    },
+    {
+        "City": "Ashkelon",
+        "Coordinates": [
+            31.66926,
+            34.57149
+        ],
+        "aqi": 76,
+        "Country": "Israel"
+    },
+    {
+        "City": "Petaẖ Tiqwa",
+        "Coordinates": [
+            32.08707,
+            34.88747
+        ],
+        "aqi": 75,
+        "Country": "Israel"
+    },
+    {
+        "City": "Fukuoka",
+        "Coordinates": [
+            33.6,
+            130.41667
+        ],
+        "aqi": 78,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kanazawa",
+        "Coordinates": [
+            36.6,
+            136.61667
+        ],
+        "aqi": 53,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kumamoto",
+        "Coordinates": [
+            32.80589,
+            130.69181
+        ],
+        "aqi": 63,
+        "Country": "Japan"
+    },
+    {
+        "City": "Akita",
+        "Coordinates": [
+            39.71667,
+            140.11667
+        ],
+        "aqi": 59,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kochi",
+        "Coordinates": [
+            33.55,
+            133.53333
+        ],
+        "aqi": 82,
+        "Country": "Japan"
+    },
+    {
+        "City": "Gifu-shi",
+        "Coordinates": [
+            35.42291,
+            136.76039
+        ],
+        "aqi": 95,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kyoto",
+        "Coordinates": [
+            35.02107,
+            135.75385
+        ],
+        "aqi": 68,
+        "Country": "Japan"
+    },
+    {
+        "City": "Hiroshima",
+        "Coordinates": [
+            34.4,
+            132.45
+        ],
+        "aqi": 70,
+        "Country": "Japan"
+    },
+    {
+        "City": "Shizuoka",
+        "Coordinates": [
+            34.98333,
+            138.38333
+        ],
+        "aqi": 59,
+        "Country": "Japan"
+    },
+    {
+        "City": "Chiba",
+        "Coordinates": [
+            35.6,
+            140.11667
+        ],
+        "aqi": 78,
+        "Country": "Japan"
+    },
+    {
+        "City": "Sapporo",
+        "Coordinates": [
+            43.06667,
+            141.35
+        ],
+        "aqi": 65,
+        "Country": "Japan"
+    },
+    {
+        "City": "Yokohama",
+        "Coordinates": [
+            35.43333,
+            139.65
+        ],
+        "aqi": "-",
+        "Country": "China"
+    },
+    {
+        "City": "Tokyo",
+        "Coordinates": [
+            35.6895,
+            139.69171
+        ],
+        "aqi": 47,
+        "Country": "Japan"
+    },
+    {
+        "City": "Saitama",
+        "Coordinates": [
+            35.90807,
+            139.65657
+        ],
+        "aqi": 85,
+        "Country": "Japan"
+    },
+    {
+        "City": "Naha",
+        "Coordinates": [
+            26.21667,
+            127.68333
+        ],
+        "aqi": 17,
+        "Country": "Japan"
+    },
+    {
+        "City": "Nagasaki",
+        "Coordinates": [
+            32.75,
+            129.88333
+        ],
+        "aqi": 59,
+        "Country": "Japan"
+    },
+    {
+        "City": "Toyama",
+        "Coordinates": [
+            36.7,
+            137.21667
+        ],
+        "aqi": 55,
+        "Country": "Japan"
+    },
+    {
+        "City": "Niigata",
+        "Coordinates": [
+            37.88637,
+            139.00589
+        ],
+        "aqi": 70,
+        "Country": "Japan"
+    },
+    {
+        "City": "Nara-shi",
+        "Coordinates": [
+            34.68505,
+            135.80485
+        ],
+        "aqi": 72,
+        "Country": "Japan"
+    },
+    {
+        "City": "Okayama",
+        "Coordinates": [
+            34.65,
+            133.93333
+        ],
+        "aqi": "-",
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Sendai",
+        "Coordinates": [
+            38.26667,
+            140.86667
+        ],
+        "aqi": 65,
+        "Country": "Japan"
+    },
+    {
+        "City": "Osaka",
+        "Coordinates": [
+            34.69374,
+            135.50218
+        ],
+        "aqi": 95,
+        "Country": "Japan"
+    },
+    {
+        "City": "Miyazaki",
+        "Coordinates": [
+            31.91667,
+            131.41667
+        ],
+        "aqi": 55,
+        "Country": "Japan"
+    },
+    {
+        "City": "Matsuyama",
+        "Coordinates": [
+            33.83916,
+            132.76574
+        ],
+        "aqi": 68,
+        "Country": "Japan"
+    },
+    {
+        "City": "Wakayama",
+        "Coordinates": [
+            34.23333,
+            135.16667
+        ],
+        "aqi": 72,
+        "Country": "Japan"
+    },
+    {
+        "City": "Takamatsu",
+        "Coordinates": [
+            34.33333,
+            134.05
+        ],
+        "aqi": 139,
+        "Country": "Japan"
+    },
+    {
+        "City": "Nagoya",
+        "Coordinates": [
+            35.18147,
+            136.90641
+        ],
+        "aqi": 53,
+        "Country": "Japan"
+    },
+    {
+        "City": "Ōita",
+        "Coordinates": [
+            33.23333,
+            131.6
+        ],
+        "aqi": 93,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kobe",
+        "Coordinates": [
+            34.6913,
+            135.183
+        ],
+        "aqi": 74,
+        "Country": "Japan"
+    },
+    {
+        "City": "Nagano",
+        "Coordinates": [
+            36.65,
+            138.18333
+        ],
+        "aqi": 63,
+        "Country": "Japan"
+    },
+    {
+        "City": "Utsunomiya",
+        "Coordinates": [
+            36.56667,
+            139.88333
+        ],
+        "aqi": 91,
+        "Country": "Japan"
+    },
+    {
+        "City": "Kagoshima",
+        "Coordinates": [
+            31.56667,
+            130.55
+        ],
+        "aqi": "-",
+        "Country": "Japan"
+    },
+    {
+        "City": "Riyadh",
+        "Coordinates": [
+            24.68773,
+            46.72185
+        ],
+        "aqi": 33,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Jeddah",
+        "Coordinates": [
+            21.49012,
+            39.18624
+        ],
+        "aqi": 53,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Abha",
+        "Coordinates": [
+            18.21639,
+            42.50528
+        ],
+        "aqi": 27,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Dammam",
+        "Coordinates": [
+            26.43442,
+            50.10326
+        ],
+        "aqi": 14,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Ha'il",
+        "Coordinates": [
+            27.52188,
+            41.69073
+        ],
+        "aqi": "-",
+        "Country": "Japan"
+    },
+    {
+        "City": "Buraydah",
+        "Coordinates": [
+            26.32599,
+            43.97497
+        ],
+        "aqi": 32,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Mecca",
+        "Coordinates": [
+            21.42664,
+            39.82563
+        ],
+        "aqi": 37,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "City": "Cochabamba",
+        "Coordinates": [
+            -17.3895,
+            -66.1568
+        ],
+        "aqi": 51,
+        "Country": "Bolivia"
+    },
+    {
+        "City": "Jakarta",
+        "Coordinates": [
+            -6.21462,
+            106.84513
+        ],
+        "aqi": 91,
+        "Country": "Indonesia"
+    },
+    {
+        "City": "Nur-Sultan",
+        "Coordinates": [
+            51.1801,
+            71.44598
+        ],
+        "aqi": 55,
+        "Country": "Kazakhstan"
+    },
+    {
+        "City": "Almaty",
+        "Coordinates": [
+            43.25667,
+            76.92861
+        ],
+        "aqi": 149,
+        "Country": "Kazakhstan"
+    },
+    {
+        "City": "Ulan Bator",
+        "Coordinates": [
+            47.90771,
+            106.88324
+        ],
+        "aqi": 16,
+        "Country": "Mongolia"
+    },
+    {
+        "City": "Lima",
+        "Coordinates": [
+            -12.04318,
+            -77.02824
+        ],
+        "aqi": 42,
+        "Country": "Peru"
+    },
+    {
+        "City": "Baguio",
+        "Coordinates": [
+            16.41639,
+            120.59306
+        ],
+        "aqi": 72,
+        "Country": "Philippines"
+    },
+    {
+        "City": "Manila",
+        "Coordinates": [
+            14.6042,
+            120.9822
+        ],
+        "aqi": 43,
+        "Country": "Philippines"
+    },
+    {
+        "City": "Butuan",
+        "Coordinates": [
+            8.94917,
+            125.54361
+        ],
+        "aqi": 28,
+        "Country": "Philippines"
+    },
+    {
+        "City": "Zamboanga",
+        "Coordinates": [
+            6.91028,
+            122.07389
+        ],
+        "aqi": 20,
+        "Country": "Philippines"
+    },
+    {
+        "City": "Dhaka",
+        "Coordinates": [
+            23.7104,
+            90.40744
+        ],
+        "aqi": 162,
+        "Country": "Bangladesh"
+    },
+    {
+        "City": "Thessaloníki",
+        "Coordinates": [
+            40.64361,
+            22.93086
+        ],
+        "aqi": 39,
+        "Country": "Greece"
+    },
+    {
+        "City": "Athens",
+        "Coordinates": [
+            37.98376,
+            23.72784
+        ],
+        "aqi": 42,
+        "Country": "Greece"
+    },
+    {
+        "City": "Dublin",
+        "Coordinates": [
+            53.33306,
+            -6.24889
+        ],
+        "aqi": 33,
+        "Country": "Ireland"
+    },
+    {
+        "City": "Copenhagen",
+        "Coordinates": [
+            55.67594,
+            12.56553
+        ],
+        "aqi": 22,
+        "Country": "Denmark"
+    },
+    {
+        "City": "Bishkek",
+        "Coordinates": [
+            42.87,
+            74.59
+        ],
+        "aqi": 89,
+        "Country": "Kyrgyzstan"
+    },
+    {
+        "City": "Skopje",
+        "Coordinates": [
+            41.99646,
+            21.43141
+        ],
+        "aqi": 24,
+        "Country": "North Macedonia"
+    },
+    {
+        "City": "Łódź",
+        "Coordinates": [
+            51.77058,
+            19.47395
+        ],
+        "aqi": 14,
+        "Country": "Poland"
+    },
+    {
+        "City": "Tarnów",
+        "Coordinates": [
+            50.01381,
+            20.98698
+        ],
+        "aqi": 38,
+        "Country": "Poland"
+    },
+    {
+        "City": "Gdańsk",
+        "Coordinates": [
+            54.35227,
+            18.64912
+        ],
+        "aqi": 48,
+        "Country": "Poland"
+    },
+    {
+        "City": "Katowice",
+        "Coordinates": [
+            50.25841,
+            19.02754
+        ],
+        "aqi": 42,
+        "Country": "Poland"
+    },
+    {
+        "City": "Poznań",
+        "Coordinates": [
+            52.40692,
+            16.92993
+        ],
+        "aqi": 74,
+        "Country": "Poland"
+    },
+    {
+        "City": "Rybnik",
+        "Coordinates": [
+            50.09713,
+            18.54179
+        ],
+        "aqi": 14,
+        "Country": "Poland"
+    },
+    {
+        "City": "Szczecin",
+        "Coordinates": [
+            53.42894,
+            14.55302
+        ],
+        "aqi": 36,
+        "Country": "Poland"
+    },
+    {
+        "City": "Kielce",
+        "Coordinates": [
+            50.87033,
+            20.62752
+        ],
+        "aqi": 25,
+        "Country": "Poland"
+    },
+    {
+        "City": "Warsaw",
+        "Coordinates": [
+            52.22977,
+            21.01178
+        ],
+        "aqi": 39,
+        "Country": "Poland"
+    },
+    {
+        "City": "Bydgoszcz",
+        "Coordinates": [
+            53.1235,
+            18.00762
+        ],
+        "aqi": 65,
+        "Country": "Poland"
+    },
+    {
+        "City": "Zabrze",
+        "Coordinates": [
+            50.32492,
+            18.78576
+        ],
+        "aqi": 18,
+        "Country": "Poland"
+    },
+    {
+        "City": "Wrocław",
+        "Coordinates": [
+            51.1,
+            17.03333
+        ],
+        "aqi": 26,
+        "Country": "Poland"
+    },
+    {
+        "City": "Płock",
+        "Coordinates": [
+            52.54682,
+            19.70638
+        ],
+        "aqi": 1,
+        "Country": "Poland"
+    },
+    {
+        "City": "Kraków",
+        "Coordinates": [
+            50.06143,
+            19.93658
+        ],
+        "aqi": 33,
+        "Country": "Poland"
+    },
+    {
+        "City": "Lisbon",
+        "Coordinates": [
+            38.71667,
+            -9.13333
+        ],
+        "aqi": 26,
+        "Country": "Portugal"
+    },
+    {
+        "City": "Funchal",
+        "Coordinates": [
+            32.66568,
+            -16.92547
+        ],
+        "aqi": 40,
+        "Country": "Portugal"
+    },
+    {
+        "City": "Buenos Aires",
+        "Coordinates": [
+            -34.61315,
+            -58.37723
+        ],
+        "aqi": 17,
+        "Country": "Argentina"
+    },
+    {
+        "City": "Beijing",
+        "Coordinates": [
+            39.9075,
+            116.39723
+        ],
+        "aqi": 52,
+        "Country": "China"
+    },
+    {
+        "City": "Jieyang",
+        "Coordinates": [
+            23.5418,
+            116.36581
+        ],
+        "aqi": 85,
+        "Country": "China"
+    },
+    {
+        "City": "Kunming",
+        "Coordinates": [
+            25.03889,
+            102.71833
+        ],
+        "aqi": 55,
+        "Country": "China"
+    },
+    {
+        "City": "Hangzhou",
+        "Coordinates": [
+            30.29365,
+            120.16142
+        ],
+        "aqi": 80,
+        "Country": "China"
+    },
+    {
+        "City": "Chongqing",
+        "Coordinates": [
+            29.56278,
+            106.55278
+        ],
+        "aqi": 102,
+        "Country": "China"
+    },
+    {
+        "City": "Qingdao",
+        "Coordinates": [
+            36.06488,
+            120.38042
+        ],
+        "aqi": 78,
+        "Country": "China"
+    },
+    {
+        "City": "Haikou",
+        "Coordinates": [
+            20.04583,
+            110.34167
+        ],
+        "aqi": 50,
+        "Country": "China"
+    },
+    {
+        "City": "Ürümqi",
+        "Coordinates": [
+            43.80096,
+            87.60046
+        ],
+        "aqi": 50,
+        "Country": "China"
+    },
+    {
+        "City": "Qiqihar",
+        "Coordinates": [
+            47.34088,
+            123.96045
+        ],
+        "aqi": 122,
+        "Country": "China"
+    },
+    {
+        "City": "Guiyang",
+        "Coordinates": [
+            26.58333,
+            106.71667
+        ],
+        "aqi": 142,
+        "Country": "China"
+    },
+    {
+        "City": "Shenzhen",
+        "Coordinates": [
+            22.54554,
+            114.0683
+        ],
+        "aqi": 80,
+        "Country": "China"
+    },
+    {
+        "City": "Yunfu",
+        "Coordinates": [
+            22.92833,
+            112.03954
+        ],
+        "aqi": 95,
+        "Country": "China"
+    },
+    {
+        "City": "Xuchang",
+        "Coordinates": [
+            34.03189,
+            113.86299
+        ],
+        "aqi": 70,
+        "Country": "China"
+    },
+    {
+        "City": "Yinchuan",
+        "Coordinates": [
+            38.46806,
+            106.27306
+        ],
+        "aqi": 65,
+        "Country": "China"
+    },
+    {
+        "City": "Shenyang",
+        "Coordinates": [
+            41.79222,
+            123.43278
+        ],
+        "aqi": 109,
+        "Country": "China"
+    },
+    {
+        "City": "Lhasa",
+        "Coordinates": [
+            29.65,
+            91.1
+        ],
+        "aqi": 57,
+        "Country": "China"
+    },
+    {
+        "City": "Shanghai",
+        "Coordinates": [
+            31.22222,
+            121.45806
+        ],
+        "aqi": 117,
+        "Country": "China"
+    },
+    {
+        "City": "Changchun",
+        "Coordinates": [
+            43.88,
+            125.32278
+        ],
+        "aqi": 102,
+        "Country": "China"
+    },
+    {
+        "City": "Foshan",
+        "Coordinates": [
+            23.02677,
+            113.13148
+        ],
+        "aqi": 97,
+        "Country": "China"
+    },
+    {
+        "City": "Nanning",
+        "Coordinates": [
+            22.81667,
+            108.31667
+        ],
+        "aqi": 50,
+        "Country": "China"
+    },
+    {
+        "City": "Fushun",
+        "Coordinates": [
+            41.88669,
+            123.94363
+        ],
+        "aqi": 117,
+        "Country": "China"
+    },
+    {
+        "City": "Hefei",
+        "Coordinates": [
+            31.86389,
+            117.28083
+        ],
+        "aqi": 152,
+        "Country": "China"
+    },
+    {
+        "City": "Chengdu",
+        "Coordinates": [
+            30.66667,
+            104.06667
+        ],
+        "aqi": 129,
+        "Country": "China"
+    },
+    {
+        "City": "Hohhot",
+        "Coordinates": [
+            40.81056,
+            111.65222
+        ],
+        "aqi": 162,
+        "Country": "China"
+    },
+    {
+        "City": "Qinhuangdao",
+        "Coordinates": [
+            39.93167,
+            119.58833
+        ],
+        "aqi": 72,
+        "Country": "China"
+    },
+    {
+        "City": "Shijiazhuang",
+        "Coordinates": [
+            38.04139,
+            114.47861
+        ],
+        "aqi": 63,
+        "Country": "China"
+    },
+    {
+        "City": "Shantou",
+        "Coordinates": [
+            23.36814,
+            116.71479
+        ],
+        "aqi": 72,
+        "Country": "China"
+    },
+    {
+        "City": "Zhengzhou",
+        "Coordinates": [
+            34.75778,
+            113.64861
+        ],
+        "aqi": 99,
+        "Country": "China"
+    },
+    {
+        "City": "Nanjing",
+        "Coordinates": [
+            32.06167,
+            118.77778
+        ],
+        "aqi": 109,
+        "Country": "China"
+    },
+    {
+        "City": "Xining",
+        "Coordinates": [
+            36.62554,
+            101.75739
+        ],
+        "aqi": 157,
+        "Country": "China"
+    },
+    {
+        "City": "Xi’an",
+        "Coordinates": [
+            34.25833,
+            108.92861
+        ],
+        "aqi": 57,
+        "Country": "China"
+    },
+    {
+        "City": "Zhuzhou",
+        "Coordinates": [
+            27.83333,
+            113.15
+        ],
+        "aqi": 178,
+        "Country": "China"
+    },
+    {
+        "City": "Wuhan",
+        "Coordinates": [
+            30.58333,
+            114.26667
+        ],
+        "aqi": 163,
+        "Country": "China"
+    },
+    {
+        "City": "Tianjin",
+        "Coordinates": [
+            39.14222,
+            117.17667
+        ],
+        "aqi": 46,
+        "Country": "China"
+    },
+    {
+        "City": "Changzhou",
+        "Coordinates": [
+            31.77359,
+            119.95401
+        ],
+        "aqi": 159,
+        "Country": "China"
+    },
+    {
+        "City": "Nanchang",
+        "Coordinates": [
+            28.68396,
+            115.85306
+        ],
+        "aqi": 76,
+        "Country": "China"
+    },
+    {
+        "City": "Shiyan",
+        "Coordinates": [
+            32.6475,
+            110.77806
+        ],
+        "aqi": 63,
+        "Country": "China"
+    },
+    {
+        "City": "Xinxiang",
+        "Coordinates": [
+            35.19033,
+            113.80151
+        ],
+        "aqi": 102,
+        "Country": "China"
+    },
+    {
+        "City": "Suzhou",
+        "Coordinates": [
+            31.30408,
+            120.59538
+        ],
+        "aqi": 153,
+        "Country": "China"
+    },
+    {
+        "City": "Harbin",
+        "Coordinates": [
+            45.75,
+            126.65
+        ],
+        "aqi": 80,
+        "Country": "China"
+    },
+    {
+        "City": "Lanzhou",
+        "Coordinates": [
+            36.05701,
+            103.83987
+        ],
+        "aqi": 87,
+        "Country": "China"
+    },
+    {
+        "City": "Jinan",
+        "Coordinates": [
+            36.66833,
+            116.99722
+        ],
+        "aqi": 81,
+        "Country": "China"
+    },
+    {
+        "City": "Changsha",
+        "Coordinates": [
+            28.19874,
+            112.97087
+        ],
+        "aqi": 132,
+        "Country": "China"
+    },
+    {
+        "City": "Hegang",
+        "Coordinates": [
+            47.35118,
+            130.30012
+        ],
+        "aqi": 85,
+        "Country": "China"
+    },
+    {
+        "City": "Anyang",
+        "Coordinates": [
+            36.096,
+            114.38278
+        ],
+        "aqi": 100,
+        "Country": "China"
+    },
+    {
+        "City": "Wuxi",
+        "Coordinates": [
+            31.56887,
+            120.28857
+        ],
+        "aqi": 152,
+        "Country": "China"
+    },
+    {
+        "City": "Taiyuan",
+        "Coordinates": [
+            37.86944,
+            112.56028
+        ],
+        "aqi": 132,
+        "Country": "China"
+    },
+    {
+        "City": "Guangzhou",
+        "Coordinates": [
+            23.11667,
+            113.25
+        ],
+        "aqi": "-",
+        "Country": "Japan"
+    },
+    {
+        "City": "Fuzhou",
+        "Coordinates": [
+            26.06139,
+            119.30611
+        ],
+        "aqi": 63,
+        "Country": "China"
+    },
+    {
+        "City": "Ningbo",
+        "Coordinates": [
+            29.87819,
+            121.54945
+        ],
+        "aqi": 59,
+        "Country": "China"
+    },
+    {
+        "City": "Xiamen",
+        "Coordinates": [
+            24.47979,
+            118.08187
+        ],
+        "aqi": 50,
+        "Country": "China"
+    },
+    {
+        "City": "Dongguan",
+        "Coordinates": [
+            23.01797,
+            113.74866
+        ],
+        "aqi": 85,
+        "Country": "China"
+    },
+    {
+        "City": "Nicosia",
+        "Coordinates": [
+            35.17531,
+            33.3642
+        ],
+        "aqi": 48,
+        "Country": "Cyprus"
+    },
+    {
+        "City": "Limassol",
+        "Coordinates": [
+            34.68406,
+            33.03794
+        ],
+        "aqi": 34,
+        "Country": "Cyprus"
+    },
+    {
+        "City": "Novi Sad",
+        "Coordinates": [
+            45.25167,
+            19.83694
+        ],
+        "aqi": 30,
+        "Country": "Serbia"
+    },
+    {
+        "City": "Niš",
+        "Coordinates": [
+            43.32472,
+            21.90333
+        ],
+        "aqi": 23,
+        "Country": "Serbia"
+    },
+    {
+        "City": "Belgrade",
+        "Coordinates": [
+            44.80401,
+            20.46513
+        ],
+        "aqi": 47,
+        "Country": "Serbia"
+    },
+    {
+        "City": "Košice",
+        "Coordinates": [
+            48.71395,
+            21.25808
+        ],
+        "aqi": 42,
+        "Country": "Slovakia"
+    },
+    {
+        "City": "Bratislava",
+        "Coordinates": [
+            48.14816,
+            17.10674
+        ],
+        "aqi": 53,
+        "Country": "Slovakia"
+    },
+    {
+        "City": "Hong Kong",
+        "Coordinates": [
+            22.27832,
+            114.17469
+        ],
+        "aqi": 72,
+        "Country": "China"
+    },
+    {
+        "City": "Bologna",
+        "Coordinates": [
+            44.49381,
+            11.33875
+        ],
+        "aqi": 13,
+        "Country": "Italy"
+    },
+    {
+        "City": "Livorno",
+        "Coordinates": [
+            43.54427,
+            10.32615
+        ],
+        "aqi": 21,
+        "Country": "Italy"
+    },
+    {
+        "City": "Trieste",
+        "Coordinates": [
+            45.64953,
+            13.77678
+        ],
+        "aqi": "-",
+        "Country": "Germany"
+    },
+    {
+        "City": "Modena",
+        "Coordinates": [
+            44.64783,
+            10.92539
+        ],
+        "aqi": 57,
+        "Country": "Italy"
+    },
+    {
+        "City": "Prato",
+        "Coordinates": [
+            43.8805,
+            11.09699
+        ],
+        "aqi": 50,
+        "Country": "Italy"
+    },
+    {
+        "City": "Florence",
+        "Coordinates": [
+            43.77925,
+            11.24626
+        ],
+        "aqi": 34,
+        "Country": "Italy"
+    },
+    {
+        "City": "Naples",
+        "Coordinates": [
+            40.85216,
+            14.26811
+        ],
+        "aqi": 32,
+        "Country": "Italy"
+    },
+    {
+        "City": "Rome",
+        "Coordinates": [
+            41.89193,
+            12.51133
+        ],
+        "aqi": 21,
+        "Country": "Italy"
+    },
+    {
+        "City": "Turin",
+        "Coordinates": [
+            45.07049,
+            7.68682
+        ],
+        "aqi": 3,
+        "Country": "Italy"
+    },
+    {
+        "City": "Milan",
+        "Coordinates": [
+            45.46427,
+            9.18951
+        ],
+        "aqi": 30,
+        "Country": "Italy"
+    },
+    {
+        "City": "Brescia",
+        "Coordinates": [
+            45.53558,
+            10.21472
+        ],
+        "aqi": 21,
+        "Country": "Italy"
+    },
+    {
+        "City": "Parma",
+        "Coordinates": [
+            44.79935,
+            10.32618
+        ],
+        "aqi": 53,
+        "Country": "Italy"
+    },
+    {
+        "City": "Odessa",
+        "Coordinates": [
+            46.47747,
+            30.73262
+        ],
+        "aqi": 90,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Ternopil",
+        "Coordinates": [
+            49.55342,
+            25.58918
+        ],
+        "aqi": 109,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Kyiv",
+        "Coordinates": [
+            50.45466,
+            30.5238
+        ],
+        "aqi": 5,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Kamianske",
+        "Coordinates": [
+            48.51134,
+            34.6021
+        ],
+        "aqi": 28,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Dnipro",
+        "Coordinates": [
+            48.4593,
+            35.03865
+        ],
+        "aqi": 2,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Zaporizhia",
+        "Coordinates": [
+            47.82289,
+            35.19031
+        ],
+        "aqi": 153,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Lviv",
+        "Coordinates": [
+            49.83826,
+            24.02324
+        ],
+        "aqi": 10,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Kryvyi Rih",
+        "Coordinates": [
+            47.90966,
+            33.38044
+        ],
+        "aqi": 8,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Ivano-Frankivsk",
+        "Coordinates": [
+            48.9215,
+            24.70972
+        ],
+        "aqi": 66,
+        "Country": "Ukraine"
+    },
+    {
+        "City": "Liège",
+        "Coordinates": [
+            50.63373,
+            5.56749
+        ],
+        "aqi": 10,
+        "Country": "Belgium"
+    },
+    {
+        "City": "Brussels",
+        "Coordinates": [
+            50.85045,
+            4.34878
+        ],
+        "aqi": 30,
+        "Country": "Belgium"
+    },
+    {
+        "City": "Charleroi",
+        "Coordinates": [
+            50.41136,
+            4.44448
+        ],
+        "aqi": 10,
+        "Country": "Belgium"
+    },
+    {
+        "City": "Gent",
+        "Coordinates": [
+            51.05,
+            3.71667
+        ],
+        "aqi": 22,
+        "Country": "Belgium"
+    },
+    {
+        "City": "Namur",
+        "Coordinates": [
+            50.4669,
+            4.86746
+        ],
+        "aqi": 3,
+        "Country": "Belgium"
+    },
+    {
+        "City": "Antwerpen",
+        "Coordinates": [
+            51.22047,
+            4.40026
+        ],
+        "aqi": 28,
+        "Country": "Belgium"
+    },
+    {
+        "City": "São José dos Campos",
+        "Coordinates": [
+            -23.17944,
+            -45.88694
+        ],
+        "aqi": 18,
+        "Country": "Brazil"
+    },
+    {
+        "City": "Vitória",
+        "Coordinates": [
+            -20.31944,
+            -40.33778
+        ],
+        "aqi": "-",
+        "Country": "Vietnam"
+    },
+    {
+        "City": "São Paulo",
+        "Coordinates": [
+            -23.5475,
+            -46.63611
+        ],
+        "aqi": 50,
+        "Country": "Brazil"
+    },
+    {
+        "City": "Zürich",
+        "Coordinates": [
+            47.36667,
+            8.55
+        ],
+        "aqi": 26,
+        "Country": "Switzerland"
+    },
+    {
+        "City": "San Salvador",
+        "Coordinates": [
+            13.68935,
+            -89.18718
+        ],
+        "aqi": "-",
+        "Country": "El Salvador"
+    },
+    {
+        "City": "Chon Buri",
+        "Coordinates": [
+            13.3622,
+            100.98345
+        ],
+        "aqi": 57,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Chiang Mai",
+        "Coordinates": [
+            18.79038,
+            98.98468
+        ],
+        "aqi": 55,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Nakhon Pathom",
+        "Coordinates": [
+            13.8196,
+            100.04427
+        ],
+        "aqi": 72,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Rayong",
+        "Coordinates": [
+            12.68095,
+            101.25798
+        ],
+        "aqi": 80,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Lampang",
+        "Coordinates": [
+            18.29232,
+            99.49277
+        ],
+        "aqi": 97,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Bangkok",
+        "Coordinates": [
+            13.75398,
+            100.50144
+        ],
+        "aqi": 93,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Samut Prakan",
+        "Coordinates": [
+            13.59934,
+            100.59675
+        ],
+        "aqi": 117,
+        "Country": "Thailand"
+    },
+    {
+        "City": "Debrecen",
+        "Coordinates": [
+            47.53167,
+            21.62444
+        ],
+        "aqi": 10,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Győr",
+        "Coordinates": [
+            47.68333,
+            17.63512
+        ],
+        "aqi": 31,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Szeged",
+        "Coordinates": [
+            46.253,
+            20.14824
+        ],
+        "aqi": 53,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Pécs",
+        "Coordinates": [
+            46.0725,
+            18.23083
+        ],
+        "aqi": 68,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Kecskemét",
+        "Coordinates": [
+            46.90618,
+            19.69128
+        ],
+        "aqi": 20,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Miskolc",
+        "Coordinates": [
+            48.10306,
+            20.77806
+        ],
+        "aqi": 61,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Budapest",
+        "Coordinates": [
+            47.49835,
+            19.04045
+        ],
+        "aqi": 18,
+        "Country": "Hungary"
+    },
+    {
+        "City": "Thrissur",
+        "Coordinates": [
+            10.51667,
+            76.21667
+        ],
+        "aqi": 91,
+        "Country": "India"
+    },
+    {
+        "City": "New Delhi",
+        "Coordinates": [
+            28.63576,
+            77.22445
+        ],
+        "aqi": 183,
+        "Country": "India"
+    },
+    {
+        "City": "Hyderabad",
+        "Coordinates": [
+            17.38405,
+            78.45636
+        ],
+        "aqi": 114,
+        "Country": "India"
+    },
+    {
+        "City": "Delhi",
+        "Coordinates": [
+            28.65195,
+            77.23149
+        ],
+        "aqi": 183,
+        "Country": "India"
+    },
+    {
+        "City": "Chandigarh",
+        "Coordinates": [
+            30.73629,
+            76.7884
+        ],
+        "aqi": 157,
+        "Country": "India"
+    },
+    {
+        "City": "Bhopal",
+        "Coordinates": [
+            23.25469,
+            77.40289
+        ],
+        "aqi": 130,
+        "Country": "India"
+    },
+    {
+        "City": "Nagpur",
+        "Coordinates": [
+            21.14631,
+            79.08491
+        ],
+        "aqi": 172,
+        "Country": "India"
+    },
+    {
+        "City": "Lucknow",
+        "Coordinates": [
+            26.83928,
+            80.92313
+        ],
+        "aqi": 75,
+        "Country": "India"
+    },
+    {
+        "City": "Ghāziābād",
+        "Coordinates": [
+            28.66535,
+            77.43915
+        ],
+        "aqi": 163,
+        "Country": "India"
+    },
+    {
+        "City": "Hāpur",
+        "Coordinates": [
+            28.72985,
+            77.78068
+        ],
+        "aqi": 160,
+        "Country": "India"
+    },
+    {
+        "City": "Gandhinagar",
+        "Coordinates": [
+            23.21667,
+            72.68333
+        ],
+        "aqi": 163,
+        "Country": "India"
+    },
+    {
+        "City": "Chennai",
+        "Coordinates": [
+            13.08784,
+            80.27847
+        ],
+        "aqi": 21,
+        "Country": "India"
+    },
+    {
+        "City": "Nashik",
+        "Coordinates": [
+            19.99727,
+            73.79096
+        ],
+        "aqi": 89,
+        "Country": "India"
+    },
+    {
+        "City": "Mysore",
+        "Coordinates": [
+            12.29791,
+            76.63925
+        ],
+        "Country": "India"
+    },
+    {
+        "City": "Visakhapatnam",
+        "Coordinates": [
+            17.68009,
+            83.20161
+        ],
+        "Country": "India"
+    },
+    {
+        "City": "Mumbai",
+        "Coordinates": [
+            19.07283,
+            72.88261
+        ],
+        "aqi": 159,
+        "Country": "India"
+    },
+    {
+        "City": "Jaipur",
+        "Coordinates": [
+            26.91962,
+            75.78781
+        ],
+        "aqi": 176,
+        "Country": "India"
+    },
+    {
+        "City": "Patna",
+        "Coordinates": [
+            25.59408,
+            85.13563
+        ],
+        "aqi": 97,
+        "Country": "India"
+    },
+    {
+        "City": "Muzaffarnagar",
+        "Coordinates": [
+            29.47091,
+            77.70332
+        ],
+        "aqi": 152,
+        "Country": "India"
+    },
+    {
+        "City": "Thiruvananthapuram",
+        "Coordinates": [
+            8.4855,
+            76.94924
+        ],
+        "aqi": 20,
+        "Country": "India"
+    },
+    {
+        "City": "Bengaluru",
+        "Coordinates": [
+            12.97194,
+            77.59369
+        ],
+        "aqi": 45,
+        "Country": "India"
+    },
+    {
+        "City": "Shillong",
+        "Coordinates": [
+            25.56892,
+            91.88313
+        ],
+        "aqi": 24,
+        "Country": "India"
+    },
+    {
+        "City": "Kolkata",
+        "Coordinates": [
+            22.56263,
+            88.36304
+        ],
+        "aqi": 169,
+        "Country": "India"
+    },
+    {
+        "City": "Stockholm",
+        "Coordinates": [
+            59.32938,
+            18.06871
+        ],
+        "aqi": 11,
+        "Country": "Sweden"
+    },
+    {
+        "City": "Göteborg",
+        "Coordinates": [
+            57.70716,
+            11.96679
+        ],
+        "aqi": 21,
+        "Country": "Sweden"
+    },
+    {
+        "City": "Malmö",
+        "Coordinates": [
+            55.60587,
+            13.00073
+        ],
+        "aqi": 16,
+        "Country": "Sweden"
+    },
+    {
+        "City": "Uppsala",
+        "Coordinates": [
+            59.85882,
+            17.63889
+        ],
+        "aqi": 25,
+        "Country": "Sweden"
+    },
+    {
+        "City": "San Juan",
+        "Coordinates": [
+            18.46633,
+            -66.10572
+        ],
+        "aqi": "-",
+        "Country": "United Kingdom"
+    },
+    {
+        "City": "Bogotá",
+        "Coordinates": [
+            4.60971,
+            -74.08175
+        ],
+        "aqi": 63,
+        "Country": "Colombia"
+    },
+    {
+        "City": "Medellín",
+        "Coordinates": [
+            6.25184,
+            -75.56359
+        ],
+        "aqi": 76,
+        "Country": "Colombia"
+    },
+    {
+        "City": "Yangon",
+        "Coordinates": [
+            16.80528,
+            96.15611
+        ],
+        "aqi": 70,
+        "Country": "Myanmar (Burma)"
+    },
+    {
+        "City": "Singapore",
+        "Coordinates": [
+            1.28967,
+            103.85007
+        ],
+        "aqi": 97,
+        "Country": "Singapore"
+    },
+    {
+        "City": "Middelburg",
+        "Coordinates": [
+            -25.77507,
+            29.46482
+        ],
+        "aqi": 36,
+        "Country": "Netherlands"
+    },
+    {
+        "City": "Pretoria",
+        "Coordinates": [
+            -25.74486,
+            28.18783
+        ],
+        "aqi": 34,
+        "Country": "South Africa"
+    },
+    {
+        "City": "East London",
+        "Coordinates": [
+            -33.01529,
+            27.91162
+        ],
+        "aqi": "-",
+        "Country": "Curaçao"
+    },
+    {
+        "City": "Johannesburg",
+        "Coordinates": [
+            -26.20227,
+            28.04363
+        ],
+        "aqi": 44,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Bloemfontein",
+        "Coordinates": [
+            -29.12107,
+            26.214
+        ],
+        "aqi": 66,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Cape Town",
+        "Coordinates": [
+            -33.92584,
+            18.42322
+        ],
+        "aqi": 53,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Vereeniging",
+        "Coordinates": [
+            -26.67313,
+            27.92615
+        ],
+        "aqi": 66,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Durban",
+        "Coordinates": [
+            -29.8579,
+            31.0292
+        ],
+        "aqi": 1,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Klerksdorp",
+        "Coordinates": [
+            -26.85213,
+            26.66672
+        ],
+        "aqi": 25,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Richards Bay",
+        "Coordinates": [
+            -28.78301,
+            32.03768
+        ],
+        "aqi": 38,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Port Elizabeth",
+        "Coordinates": [
+            -33.96109,
+            25.61494
+        ],
+        "aqi": "-",
+        "Country": "Chile"
+    },
+    {
+        "City": "Worcester",
+        "Coordinates": [
+            -33.64651,
+            19.44852
+        ],
+        "aqi": 38,
+        "Country": "South Africa"
+    },
+    {
+        "City": "Sarajevo",
+        "Coordinates": [
+            43.84864,
+            18.35644
+        ],
+        "aqi": 57,
+        "Country": "Bosnia and Herzegovina"
+    },
+    {
+        "City": "Zenica",
+        "Coordinates": [
+            44.20169,
+            17.90397
+        ],
+        "aqi": 62,
+        "Country": "Bosnia and Herzegovina"
+    },
+    {
+        "City": "Tuzla",
+        "Coordinates": [
+            44.53842,
+            18.66709
+        ],
+        "aqi": 45,
+        "Country": "Bosnia and Herzegovina"
+    },
+    {
+        "City": "Sofia",
+        "Coordinates": [
+            42.69751,
+            23.32415
+        ],
+        "aqi": 27,
+        "Country": "Bulgaria"
+    },
+    {
+        "City": "Burgas",
+        "Coordinates": [
+            42.50606,
+            27.46781
+        ],
+        "aqi": 23,
+        "Country": "Bulgaria"
+    },
+    {
+        "City": "Plovdiv",
+        "Coordinates": [
+            42.15,
+            24.75
+        ],
+        "aqi": 5,
+        "Country": "Bulgaria"
+    },
+    {
+        "City": "Manama",
+        "Coordinates": [
+            26.22787,
+            50.58565
+        ],
+        "aqi": 137,
+        "Country": "Bahrain"
+    },
+    {
+        "City": "Vientiane",
+        "Coordinates": [
+            17.96667,
+            102.6
+        ],
+        "aqi": 91,
+        "Country": "Laos"
+    },
+    {
+        "City": "Trondheim",
+        "Coordinates": [
+            63.43049,
+            10.39506
+        ],
+        "aqi": 7,
+        "Country": "Norway"
+    },
+    {
+        "City": "Oslo",
+        "Coordinates": [
+            59.91273,
+            10.74609
+        ],
+        "aqi": 9,
+        "Country": "Norway"
+    },
+    {
+        "City": "Stavanger",
+        "Coordinates": [
+            58.97005,
+            5.73332
+        ],
+        "aqi": 2,
+        "Country": "Norway"
+    },
+    {
+        "City": "Bergen",
+        "Coordinates": [
+            60.39299,
+            5.32415
+        ],
+        "aqi": 22,
+        "Country": "Norway"
+    },
+    {
+        "City": "Ashgabat",
+        "Coordinates": [
+            37.95,
+            58.38333
+        ],
+        "aqi": 107,
+        "Country": "Turkmenistan"
+    },
+    {
+        "City": "Tashkent",
+        "Coordinates": [
+            41.26465,
+            69.21627
+        ],
+        "aqi": 99,
+        "Country": "Uzbekistan"
+    },
+    {
+        "City": "Kabul",
+        "Coordinates": [
+            34.52813,
+            69.17233
+        ],
+        "aqi": 193,
+        "Country": "Afghanistan"
+    },
+    {
+        "City": "Tallinn",
+        "Coordinates": [
+            59.43696,
+            24.75353
+        ],
+        "aqi": 17,
+        "Country": "Estonia"
+    },
+    {
+        "City": "Guatemala City",
+        "Coordinates": [
+            14.64072,
+            -90.51327
+        ],
+        "aqi": 3,
+        "Country": "Guatemala"
+    },
+    {
+        "City": "Abu Dhabi",
+        "Coordinates": [
+            24.45118,
+            54.39696
+        ],
+        "aqi": 84,
+        "Country": "United Arab Emirates"
+    },
+    {
+        "City": "Dubai",
+        "Coordinates": [
+            25.07725,
+            55.30927
+        ],
+        "aqi": 129,
+        "Country": "United Arab Emirates"
+    },
+    {
+        "City": "Kampala",
+        "Coordinates": [
+            0.31628,
+            32.58219
+        ],
+        "aqi": 55,
+        "Country": "Uganda"
+    },
+    {
+        "City": "Oklahoma City",
+        "Coordinates": [
+            35.46756,
+            -97.51643
+        ],
+        "aqi": 38,
+        "Country": "United States"
+    },
+    {
+        "City": "Raleigh",
+        "Coordinates": [
+            35.7721,
+            -78.63861
+        ],
+        "aqi": 51,
+        "Country": "United States"
+    },
+    {
+        "City": "Memphis",
+        "Coordinates": [
+            35.14953,
+            -90.04898
+        ],
+        "Country": "United States"
+    },
+    {
+        "City": "Jackson",
+        "Coordinates": [
+            32.29876,
+            -90.18481
+        ],
+        "aqi": 56,
+        "Country": "United States"
+    },
+    {
+        "City": "Boston",
+        "Coordinates": [
+            42.35843,
+            -71.05977
+        ],
+        "aqi": 36,
+        "Country": "United States"
+    },
+    {
+        "City": "Richmond",
+        "Coordinates": [
+            37.55376,
+            -77.46026
+        ],
+        "aqi": 32,
+        "Country": "United States"
+    },
+    {
+        "City": "Portland",
+        "Coordinates": [
+            45.52345,
+            -122.67621
+        ],
+        "aqi": 1,
+        "Country": "United States"
+    },
+    {
+        "City": "Boise",
+        "Coordinates": [
+            43.6135,
+            -116.20345
+        ],
+        "aqi": 8,
+        "Country": "United States"
+    },
+    {
+        "City": "Austin",
+        "Coordinates": [
+            30.26715,
+            -97.74306
+        ],
+        "aqi": 8,
+        "Country": "United States"
+    },
+    {
+        "City": "Honolulu",
+        "Coordinates": [
+            21.30694,
+            -157.85833
+        ],
+        "aqi": 9,
+        "Country": "United States"
+    },
+    {
+        "City": "Fresno",
+        "Coordinates": [
+            36.74773,
+            -119.77237
+        ],
+        "aqi": 76,
+        "Country": "United States"
+    },
+    {
+        "City": "Milwaukee",
+        "Coordinates": [
+            43.0389,
+            -87.90647
+        ],
+        "aqi": 25,
+        "Country": "United States"
+    },
+    {
+        "City": "Columbia",
+        "Coordinates": [
+            34.00071,
+            -81.03481
+        ],
+        "aqi": 14,
+        "Country": "United States"
+    },
+    {
+        "City": "Hartford",
+        "Coordinates": [
+            41.76371,
+            -72.68509
+        ],
+        "aqi": 50,
+        "Country": "United States"
+    },
+    {
+        "City": "Washington, D.C.",
+        "Coordinates": [
+            38.89511,
+            -77.03637
+        ],
+        "aqi": 28,
+        "Country": "United States"
+    },
+    {
+        "City": "Chicago",
+        "Coordinates": [
+            41.85003,
+            -87.65005
+        ],
+        "aqi": 44,
+        "Country": "United States"
+    },
+    {
+        "City": "Houston",
+        "Coordinates": [
+            29.76328,
+            -95.36327
+        ],
+        "aqi": 1,
+        "Country": "United States"
+    },
+    {
+        "City": "Indianapolis",
+        "Coordinates": [
+            39.76838,
+            -86.15804
+        ],
+        "aqi": 33,
+        "Country": "United States"
+    },
+    {
+        "City": "Atlanta",
+        "Coordinates": [
+            33.749,
+            -84.38798
+        ],
+        "aqi": 33,
+        "Country": "United States"
+    },
+    {
+        "City": "Charlotte",
+        "Coordinates": [
+            35.22709,
+            -80.84313
+        ],
+        "aqi": 64,
+        "Country": "United States"
+    },
+    {
+        "City": "Sacramento",
+        "Coordinates": [
+            38.58157,
+            -121.4944
+        ],
+        "aqi": 67,
+        "Country": "United States"
+    },
+    {
+        "City": "Oakland",
+        "Coordinates": [
+            37.80437,
+            -122.2708
+        ],
+        "aqi": 53,
+        "Country": "United States"
+    },
+    {
+        "City": "Providence",
+        "Coordinates": [
+            41.82399,
+            -71.41283
+        ],
+        "aqi": 50,
+        "Country": "United States"
+    },
+    {
+        "City": "Staten Island",
+        "Coordinates": [
+            40.56233,
+            -74.13986
+        ],
+        "aqi": 38,
+        "Country": "United States"
+    },
+    {
+        "City": "Brooklyn",
+        "Coordinates": [
+            40.6501,
+            -73.94958
+        ],
+        "aqi": 33,
+        "Country": "United States"
+    },
+    {
+        "City": "Springfield",
+        "Coordinates": [
+            39.80172,
+            -89.64371
+        ],
+        "aqi": 18,
+        "Country": "United States"
+    },
+    {
+        "City": "The Bronx",
+        "Coordinates": [
+            40.84985,
+            -73.86641
+        ],
+        "aqi": 34,
+        "Country": "United States"
+    },
+    {
+        "City": "San Jose",
+        "Coordinates": [
+            37.33939,
+            -121.89496
+        ],
+        "aqi": 59,
+        "Country": "United States"
+    },
+    {
+        "City": "Los Angeles",
+        "Coordinates": [
+            34.05223,
+            -118.24368
+        ],
+        "aqi": 58,
+        "Country": "United States"
+    },
+    {
+        "City": "Detroit",
+        "Coordinates": [
+            42.33143,
+            -83.04575
+        ],
+        "aqi": 38,
+        "Country": "United States"
+    },
+    {
+        "City": "Little Rock",
+        "Coordinates": [
+            34.74648,
+            -92.28959
+        ],
+        "Country": "United States"
+    },
+    {
+        "City": "Baltimore",
+        "Coordinates": [
+            39.29038,
+            -76.61219
+        ],
+        "aqi": 63,
+        "Country": "United States"
+    },
+    {
+        "City": "Phoenix",
+        "Coordinates": [
+            33.44838,
+            -112.07404
+        ],
+        "aqi": 58,
+        "Country": "United States"
+    },
+    {
+        "City": "Omaha",
+        "Coordinates": [
+            41.25626,
+            -95.94043
+        ],
+        "aqi": 38,
+        "Country": "United States"
+    },
+    {
+        "City": "El Paso",
+        "Coordinates": [
+            31.75872,
+            -106.48693
+        ],
+        "aqi": 47,
+        "Country": "United States"
+    },
+    {
+        "City": "Dallas",
+        "Coordinates": [
+            32.78306,
+            -96.80667
+        ],
+        "aqi": 59,
+        "Country": "United States"
+    },
+    {
+        "City": "Seattle",
+        "Coordinates": [
+            47.60621,
+            -122.33207
+        ],
+        "aqi": 21,
+        "Country": "United States"
+    },
+    {
+        "City": "Manhattan",
+        "Coordinates": [
+            40.78343,
+            -73.96625
+        ],
+        "aqi": 33,
+        "Country": "United States"
+    },
+    {
+        "City": "Miami",
+        "Coordinates": [
+            25.77427,
+            -80.19366
+        ],
+        "aqi": 41,
+        "Country": "United States"
+    },
+    {
+        "City": "Jacksonville",
+        "Coordinates": [
+            30.33218,
+            -81.65565
+        ],
+        "aqi": 32,
+        "Country": "United States"
+    },
+    {
+        "City": "Las Vegas",
+        "Coordinates": [
+            36.17497,
+            -115.13722
+        ],
+        "aqi": 7,
+        "Country": "United States"
+    },
+    {
+        "City": "San Antonio",
+        "Coordinates": [
+            29.42412,
+            -98.49363
+        ],
+        "aqi": 2,
+        "Country": "United States"
+    },
+    {
+        "City": "Philadelphia",
+        "Coordinates": [
+            39.95233,
+            -75.16379
+        ],
+        "aqi": 30,
+        "Country": "United States"
+    },
+    {
+        "City": "San Diego",
+        "Coordinates": [
+            32.71571,
+            -117.16472
+        ],
+        "aqi": 41,
+        "Country": "United States"
+    },
+    {
+        "City": "Columbus",
+        "Coordinates": [
+            39.96118,
+            -82.99879
+        ],
+        "aqi": "-",
+        "Country": "Mexico"
+    },
+    {
+        "City": "Saint Paul",
+        "Coordinates": [
+            44.94441,
+            -93.09327
+        ],
+        "aqi": 58,
+        "Country": "United States"
+    },
+    {
+        "City": "Denver",
+        "Coordinates": [
+            39.73915,
+            -104.9847
+        ],
+        "aqi": 25,
+        "Country": "United States"
+    },
+    {
+        "City": "Salt Lake City",
+        "Coordinates": [
+            40.76078,
+            -111.89105
+        ],
+        "aqi": 55,
+        "Country": "United States"
+    },
+    {
+        "City": "Albuquerque",
+        "Coordinates": [
+            35.08449,
+            -106.65114
+        ],
+        "aqi": 52,
+        "Country": "United States"
+    },
+    {
+        "City": "San Francisco",
+        "Coordinates": [
+            37.77493,
+            -122.41942
+        ],
+        "aqi": 59,
+        "Country": "United States"
+    },
+    {
+        "City": "Salem",
+        "Coordinates": [
+            44.9429,
+            -123.0351
+        ],
+        "aqi": 43,
+        "Country": "United States"
+    },
+    {
+        "City": "Madison",
+        "Coordinates": [
+            43.07305,
+            -89.40123
+        ],
+        "aqi": 27,
+        "Country": "United States"
+    },
+    {
+        "City": "Nashville",
+        "Coordinates": [
+            36.16589,
+            -86.78444
+        ],
+        "aqi": 44,
+        "Country": "United States"
+    },
+    {
+        "City": "Tucson",
+        "Coordinates": [
+            32.22174,
+            -110.92648
+        ],
+        "aqi": 30,
+        "Country": "United States"
+    },
+    {
+        "City": "Queens",
+        "Coordinates": [
+            40.68149,
+            -73.83652
+        ],
+        "aqi": 34,
+        "Country": "United States"
+    },
+    {
+        "City": "Tallahassee",
+        "Coordinates": [
+            30.43826,
+            -84.28073
+        ],
+        "aqi": 29,
+        "Country": "United States"
+    },
+    {
+        "City": "Fort Worth",
+        "Coordinates": [
+            32.72541,
+            -97.32085
+        ],
+        "aqi": 57,
+        "Country": "United States"
+    },
+    {
+        "City": "Ḩawallī",
+        "Coordinates": [
+            29.33278,
+            48.02861
+        ],
+        "aqi": 86,
+        "Country": "Kuwait"
+    },
+    {
+        "City": "Kuantan",
+        "Coordinates": [
+            3.8077,
+            103.326
+        ],
+        "aqi": 42,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Miri",
+        "Coordinates": [
+            4.39928,
+            113.99163
+        ],
+        "aqi": 25,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "George Town",
+        "Coordinates": [
+            5.41123,
+            100.33543
+        ],
+        "aqi": 53,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Klang",
+        "Coordinates": [
+            3.03667,
+            101.44333
+        ],
+        "aqi": 68,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Malacca",
+        "Coordinates": [
+            2.196,
+            102.2405
+        ],
+        "aqi": 67,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Taiping",
+        "Coordinates": [
+            4.85,
+            100.73333
+        ],
+        "aqi": 30,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Alor Setar",
+        "Coordinates": [
+            6.12104,
+            100.36014
+        ],
+        "aqi": 28,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Kota Bharu",
+        "Coordinates": [
+            6.12361,
+            102.24333
+        ],
+        "aqi": 37,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Kuching",
+        "Coordinates": [
+            1.55,
+            110.33333
+        ],
+        "aqi": 40,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Seremban",
+        "Coordinates": [
+            2.7297,
+            101.9381
+        ],
+        "aqi": 62,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Ipoh",
+        "Coordinates": [
+            4.5841,
+            101.0829
+        ],
+        "aqi": 40,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Johor Bahru",
+        "Coordinates": [
+            1.4655,
+            103.7578
+        ],
+        "aqi": 82,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Kuala Lumpur",
+        "Coordinates": [
+            3.1412,
+            101.68653
+        ],
+        "aqi": 68,
+        "Country": "Malaysia"
+    },
+    {
+        "City": "Quito",
+        "Coordinates": [
+            -0.22985,
+            -78.52495
+        ],
+        "aqi": 59,
+        "Country": "Ecuador"
+    },
+    {
+        "City": "Baghdad",
+        "Coordinates": [
+            33.34058,
+            44.40088
+        ],
+        "aqi": 124,
+        "Country": "Iraq"
+    },
+    {
+        "City": "Isfahan",
+        "Coordinates": [
+            32.65246,
+            51.67462
+        ],
+        "aqi": 74,
+        "Country": "Iran"
+    },
+    {
+        "City": "Arāk",
+        "Coordinates": [
+            34.09493,
+            49.69809
+        ],
+        "aqi": 81,
+        "Country": "Iran"
+    },
+    {
+        "City": "Karaj",
+        "Coordinates": [
+            35.83266,
+            50.99155
+        ],
+        "aqi": 79,
+        "Country": "Iran"
+    },
+    {
+        "City": "Qom",
+        "Coordinates": [
+            34.6401,
+            50.8764
+        ],
+        "aqi": 37,
+        "Country": "Iran"
+    },
+    {
+        "City": "Orūmīyeh",
+        "Coordinates": [
+            37.55274,
+            45.07605
+        ],
+        "aqi": 56,
+        "Country": "Iran"
+    },
+    {
+        "City": "Yazd",
+        "Coordinates": [
+            31.89722,
+            54.3675
+        ],
+        "aqi": 85,
+        "Country": "Iran"
+    },
+    {
+        "City": "Īlām",
+        "Coordinates": [
+            33.6374,
+            46.4227
+        ],
+        "aqi": 40,
+        "Country": "Iran"
+    },
+    {
+        "City": "Kerman",
+        "Coordinates": [
+            30.28321,
+            57.07879
+        ],
+        "aqi": 67,
+        "Country": "Iran"
+    },
+    {
+        "City": "Khorramshahr",
+        "Coordinates": [
+            30.44079,
+            48.18428
+        ],
+        "aqi": 131,
+        "Country": "Iran"
+    },
+    {
+        "City": "Tabriz",
+        "Coordinates": [
+            38.08,
+            46.2919
+        ],
+        "aqi": 91,
+        "Country": "Iran"
+    },
+    {
+        "City": "Bandar Abbas",
+        "Coordinates": [
+            27.1865,
+            56.2808
+        ],
+        "aqi": 59,
+        "Country": "Iran"
+    },
+    {
+        "City": "Sanandaj",
+        "Coordinates": [
+            35.31495,
+            46.99883
+        ],
+        "aqi": 28,
+        "Country": "Iran"
+    },
+    {
+        "City": "Kermanshah",
+        "Coordinates": [
+            34.31417,
+            47.065
+        ],
+        "aqi": 81,
+        "Country": "Iran"
+    },
+    {
+        "City": "Khorramabad",
+        "Coordinates": [
+            33.48778,
+            48.35583
+        ],
+        "aqi": 61,
+        "Country": "Iran"
+    },
+    {
+        "City": "Shiraz",
+        "Coordinates": [
+            29.61031,
+            52.53113
+        ],
+        "aqi": 84,
+        "Country": "Iran"
+    },
+    {
+        "City": "Zanjān",
+        "Coordinates": [
+            36.67642,
+            48.49628
+        ],
+        "aqi": 80,
+        "Country": "Iran"
+    },
+    {
+        "City": "Mashhad",
+        "Coordinates": [
+            36.31559,
+            59.56796
+        ],
+        "aqi": 145,
+        "Country": "Iran"
+    },
+    {
+        "City": "Tehran",
+        "Coordinates": [
+            35.69439,
+            51.42151
+        ],
+        "aqi": 73,
+        "Country": "Iran"
+    },
+    {
+        "City": "Bamako",
+        "Coordinates": [
+            12.65,
+            -8
+        ],
+        "aqi": 97,
+        "Country": "Mali"
+    },
+    {
+        "City": "Macau",
+        "Coordinates": [
+            22.20056,
+            113.54611
+        ],
+        "aqi": 68,
+        "Country": "Macau"
+    },
+    {
+        "City": "Chelyabinsk",
+        "Coordinates": [
+            55.15402,
+            61.42915
+        ],
+        "aqi": 182,
+        "Country": "Russia"
+    },
+    {
+        "City": "Nizhniy Novgorod",
+        "Coordinates": [
+            56.32867,
+            44.00205
+        ],
+        "aqi": 1,
+        "Country": "Russia"
+    },
+    {
+        "City": "Saint Petersburg",
+        "Coordinates": [
+            59.93863,
+            30.31413
+        ],
+        "aqi": 5,
+        "Country": "Russia"
+    },
+    {
+        "City": "Krasnoyarsk",
+        "Coordinates": [
+            56.01839,
+            92.86717
+        ],
+        "aqi": 0,
+        "Country": "Russia"
+    },
+    {
+        "City": "Tomsk",
+        "Coordinates": [
+            56.49771,
+            84.97437
+        ],
+        "aqi": 152,
+        "Country": "Russia"
+    },
+    {
+        "City": "Novosibirsk",
+        "Coordinates": [
+            55.0415,
+            82.9346
+        ],
+        "aqi": 125,
+        "Country": "Russia"
+    },
+    {
+        "City": "Moscow",
+        "Coordinates": [
+            55.75222,
+            37.61556
+        ],
+        "aqi": 34,
+        "Country": "Russia"
+    },
+    {
+        "City": "Vantaa",
+        "Coordinates": [
+            60.29414,
+            25.04099
+        ],
+        "aqi": 13,
+        "Country": "Finland"
+    },
+    {
+        "City": "Turku",
+        "Coordinates": [
+            60.45148,
+            22.26869
+        ],
+        "aqi": 18,
+        "Country": "Finland"
+    },
+    {
+        "City": "Oulu",
+        "Coordinates": [
+            65.01236,
+            25.46816
+        ],
+        "aqi": 6,
+        "Country": "Finland"
+    },
+    {
+        "City": "Helsinki",
+        "Coordinates": [
+            60.16952,
+            24.93545
+        ],
+        "aqi": 28,
+        "Country": "Finland"
+    },
+    {
+        "City": "Tampere",
+        "Coordinates": [
+            61.49911,
+            23.78712
+        ],
+        "aqi": 14,
+        "Country": "Finland"
+    },
+    {
+        "City": "Conakry",
+        "Coordinates": [
+            9.53795,
+            -13.67729
+        ],
+        "aqi": 42,
+        "Country": "Guinea"
+    },
+    {
+        "City": "Jeonju",
+        "Coordinates": [
+            35.82194,
+            127.14889
+        ],
+        "aqi": 95,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Seoul",
+        "Coordinates": [
+            37.566,
+            126.9784
+        ],
+        "aqi": 97,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Busan",
+        "Coordinates": [
+            35.10168,
+            129.03004
+        ],
+        "aqi": 61,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Sejong",
+        "Coordinates": [
+            36.59245,
+            127.29223
+        ],
+        "aqi": 72,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Ulsan",
+        "Coordinates": [
+            35.53722,
+            129.31667
+        ],
+        "aqi": 61,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Yeosu",
+        "Coordinates": [
+            34.76062,
+            127.66215
+        ],
+        "aqi": 46,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Gwangju",
+        "Coordinates": [
+            35.15472,
+            126.91556
+        ],
+        "aqi": 76,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Seongnam-si",
+        "Coordinates": [
+            37.43861,
+            127.13778
+        ],
+        "aqi": 68,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Daejeon",
+        "Coordinates": [
+            36.34913,
+            127.38493
+        ],
+        "aqi": 74,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Pohang",
+        "Coordinates": [
+            36.02917,
+            129.36481
+        ],
+        "aqi": 78,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Changwon",
+        "Coordinates": [
+            35.22806,
+            128.68111
+        ],
+        "aqi": 63,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Suwon",
+        "Coordinates": [
+            37.29111,
+            127.00889
+        ],
+        "aqi": 72,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Cheongju-si",
+        "Coordinates": [
+            36.63722,
+            127.48972
+        ],
+        "aqi": 57,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Chuncheon",
+        "Coordinates": [
+            37.87472,
+            127.73417
+        ],
+        "aqi": 76,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Daegu",
+        "Coordinates": [
+            35.87028,
+            128.59111
+        ],
+        "aqi": 76,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Jeju City",
+        "Coordinates": [
+            33.50972,
+            126.52194
+        ],
+        "aqi": 42,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Incheon",
+        "Coordinates": [
+            37.45646,
+            126.70515
+        ],
+        "aqi": 78,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Suncheon",
+        "Coordinates": [
+            34.9505,
+            127.48784
+        ],
+        "aqi": 57,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Mokpo",
+        "Coordinates": [
+            34.81282,
+            126.39181
+        ],
+        "aqi": 55,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Andong",
+        "Coordinates": [
+            36.56636,
+            128.72275
+        ],
+        "aqi": 78,
+        "Country": "South Korea"
+    },
+    {
+        "City": "Taitung City",
+        "Coordinates": [
+            22.7583,
+            121.1444
+        ],
+        "aqi": 30,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Taichung",
+        "Coordinates": [
+            24.1469,
+            120.6839
+        ],
+        "aqi": 76,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Taoyuan City",
+        "Coordinates": [
+            24.99368,
+            121.29696
+        ],
+        "aqi": 70,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Taipei",
+        "Coordinates": [
+            25.04776,
+            121.53185
+        ],
+        "aqi": 25,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Hsinchu",
+        "Coordinates": [
+            24.80361,
+            120.96861
+        ],
+        "aqi": 72,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Keelung",
+        "Coordinates": [
+            25.12825,
+            121.7419
+        ],
+        "aqi": 46,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Tainan",
+        "Coordinates": [
+            22.99083,
+            120.21333
+        ],
+        "aqi": 59,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Douliu",
+        "Coordinates": [
+            23.70944,
+            120.54333
+        ],
+        "aqi": 99,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Kaohsiung",
+        "Coordinates": [
+            22.61626,
+            120.31333
+        ],
+        "aqi": 63,
+        "Country": "Taiwan"
+    },
+    {
+        "City": "Algiers",
+        "Coordinates": [
+            36.73225,
+            3.08746
+        ],
+        "aqi": 34,
+        "Country": "Algeria"
+    },
+    {
+        "City": "Kathmandu",
+        "Coordinates": [
+            27.70169,
+            85.3206
+        ],
+        "Country": "Nepal"
+    },
+    {
+        "City": "Pokhara",
+        "Coordinates": [
+            28.26689,
+            83.96851
+        ],
+        "Country": "Nepal"
+    },
+    {
+        "City": "Biratnagar",
+        "Coordinates": [
+            26.45505,
+            87.27007
+        ],
+        "Country": "Nepal"
+    },
+    {
+        "City": "Auckland",
+        "Coordinates": [
+            -36.84853,
+            174.76349
+        ],
+        "aqi": 12,
+        "Country": "New Zealand"
+    },
+    {
+        "City": "Christchurch",
+        "Coordinates": [
+            -43.53333,
+            172.63333
+        ],
+        "aqi": 5,
+        "Country": "New Zealand"
+    },
+    {
+        "City": "Wellington",
+        "Coordinates": [
+            -41.28664,
+            174.77557
+        ],
+        "aqi": "-",
+        "Country": "Mexico"
+    },
+    {
+        "City": "Dunedin",
+        "Coordinates": [
+            -45.87416,
+            170.50361
+        ],
+        "aqi": 8,
+        "Country": "New Zealand"
+    },
+    {
+        "City": "Hamilton",
+        "Coordinates": [
+            -37.78333,
+            175.28333
+        ],
+        "aqi": 30,
+        "Country": "New Zealand"
+    }
+]
+

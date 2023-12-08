@@ -1,0 +1,754 @@
+[
+    {
+        "population": "-",
+        "populationGrowth": "-",
+        "GDP": "-",
+        "GDPPerCapita": "-",
+        "GDPGrowth": "-",
+        "Country": "Macau"
+    },
+    {
+        "population": "-",
+        "populationGrowth": "-",
+        "GDP": "-",
+        "GDPPerCapita": "-",
+        "GDPGrowth": "-",
+        "Country": "Laos"
+    },
+    {
+        "population": "-",
+        "populationGrowth": "-",
+        "GDP": "-",
+        "GDPPerCapita": "-",
+        "GDPGrowth": "-",
+        "Country": "France (Réunion)"
+    },
+    {
+        "population": "-",
+        "populationGrowth": "-",
+        "GDP": "-",
+        "GDPPerCapita": "-",
+        "GDPGrowth": "-",
+        "Country": "Taiwan"
+    },
+    {
+        "population": 30547580,
+        "populationGrowth": 1.69224660146888,
+        "GDP": 40828247302.4851,
+        "GDPPerCapita": 1336.54604726414,
+        "GDPGrowth": 5.61319316507362,
+        "Country": "Nepal"
+    },
+    {
+        "population": 9042528,
+        "populationGrowth": 0.963774921741706,
+        "GDP": 471400066091.247,
+        "GDPPerCapita": 52131.44665863871,
+        "GDPGrowth": 4.99694240688582,
+        "Country": "Austria"
+    },
+    {
+        "population": 46234830,
+        "populationGrowth": 0.925835473662058,
+        "GDP": 632770284408.51,
+        "GDPPerCapita": 13686.008673731687,
+        "GDPGrowth": 5.2430444992488,
+        "Country": "Argentina"
+    },
+    {
+        "population": 51874024,
+        "populationGrowth": 0.691481571303501,
+        "GDP": 343939445259.487,
+        "GDPPerCapita": 6630.282726080533,
+        "GDPGrowth": 7.49577578140568,
+        "Country": "Colombia"
+    },
+    {
+        "population": 5431752,
+        "populationGrowth": -0.284860959688394,
+        "GDP": 115468803971.543,
+        "GDPPerCapita": 21258.1141354655,
+        "GDPGrowth": 1.6687029395207,
+        "Country": "Slovakia"
+    },
+    {
+        "population": 3712502,
+        "populationGrowth": 0.104889950638883,
+        "GDP": 24605375420.0672,
+        "GDPPerCapita": 6627.706980377977,
+        "GDPGrowth": 10.1087199365244,
+        "Country": "Georgia"
+    },
+    {
+        "population": 3221789,
+        "populationGrowth": -1.26161326518099,
+        "GDP": 113434800000,
+        "GDPPerCapita": 35208.637188841356,
+        "GDPGrowth": 3.36097255511649,
+        "Country": "Puerto Rico"
+    },
+    {
+        "population": 51628117,
+        "populationGrowth": -0.225898556795999,
+        "GDP": 1665245538594.96,
+        "GDPPerCapita": 32254.624715345708,
+        "GDPGrowth": 2.56053743193038,
+        "Country": "South Korea"
+    },
+    {
+        "population": 17357886,
+        "populationGrowth": 1.43986849494773,
+        "GDP": 95003333381.1936,
+        "GDPPerCapita": 5473.208741041023,
+        "GDPGrowth": 4.11800416923388,
+        "Country": "Guatemala"
+    },
+    {
+        "population": 19603733,
+        "populationGrowth": 0.565514127974157,
+        "GDP": 301025249437.947,
+        "GDPPerCapita": 15355.506496540584,
+        "GDPGrowth": 2.44040339833805,
+        "Country": "Chile"
+    },
+    {
+        "population": 5556880,
+        "populationGrowth": 0.285874176039593,
+        "GDP": 280825957768.484,
+        "GDPPerCapita": 50536.62446705418,
+        "GDPGrowth": 2.08377520852903,
+        "Country": "Finland"
+    },
+    {
+        "population": 47249585,
+        "populationGrowth": 2.99862763969552,
+        "GDP": 45559202048.7345,
+        "GDPPerCapita": 964.224385224431,
+        "GDPGrowth": 4.65013371219401,
+        "Country": "Uganda"
+    },
+    {
+        "population": 125124989,
+        "populationGrowth": -0.443851919148528,
+        "GDP": 4231141201863.17,
+        "GDPPerCapita": 33815.3172733799,
+        "GDPGrowth": 1.02862486644142,
+        "Country": "Japan"
+    },
+    {
+        "population": 9683505,
+        "populationGrowth": -0.272113417179912,
+        "GDP": 178788572067.589,
+        "GDPPerCapita": 18463.208524969934,
+        "GDPGrowth": 4.5779057692603,
+        "Country": "Hungary"
+    },
+    {
+        "population": 1412175000,
+        "populationGrowth": -0.0130995013525784,
+        "GDP": 17963170521079.8,
+        "GDPPerCapita": 12720.21563976122,
+        "GDPGrowth": 2.9908045977096,
+        "Country": "China"
+    },
+    {
+        "population": 33938221,
+        "populationGrowth": 1.07936374148797,
+        "GDP": 406305924656.071,
+        "GDPPerCapita": 11971.927599153503,
+        "GDPGrowth": 8.69434320308062,
+        "Country": "Malaysia"
+    },
+    {
+        "population": 71697030,
+        "populationGrowth": 0.133884527761643,
+        "GDP": 495340592811.188,
+        "GDPPerCapita": 6908.802119295429,
+        "GDPGrowth": 2.5947334334048,
+        "Country": "Thailand"
+    },
+    {
+        "population": 275501339,
+        "populationGrowth": 0.636555115146439,
+        "GDP": 1319100220389.02,
+        "GDPPerCapita": 4787.99930765135,
+        "GDPGrowth": 5.30859500543608,
+        "Country": "Indonesia"
+    },
+    {
+        "population": 84079811,
+        "populationGrowth": 1.05662714139991,
+        "GDP": 4072191736089.51,
+        "GDPPerCapita": 48432.455873259634,
+        "GDPGrowth": 1.78520820964427,
+        "Country": "Germany"
+    },
+    {
+        "population": 381900,
+        "populationGrowth": 2.48680665780135,
+        "GDP": 27841648044.3753,
+        "GDPPerCapita": 72902.97995384996,
+        "GDPGrowth": 6.44456632472379,
+        "Country": "Iceland"
+    },
+    {
+        "population": 28160542,
+        "populationGrowth": 2.45270320081193,
+        "GDP": 70018715016.6967,
+        "GDPPerCapita": 2486.4121939377696,
+        "GDPGrowth": 6.74133000220331,
+        "Country": "Ivory Coast"
+    },
+    {
+        "population": 5086988,
+        "populationGrowth": 1.06368959987424,
+        "GDP": 529244870222.765,
+        "GDPPerCapita": 104038.94607629604,
+        "GDPGrowth": 11.9695802975001,
+        "Country": "Ireland"
+    },
+    {
+        "population": 5124100,
+        "populationGrowth": 0.248156055246315,
+        "GDP": 247234053739.267,
+        "GDPPerCapita": 48249.26401500107,
+        "GDPGrowth": 2.15697977649043,
+        "Country": "New Zealand"
+    },
+    {
+        "population": 10566531,
+        "populationGrowth": -0.704367995268749,
+        "GDP": 219065872466.25,
+        "GDPPerCapita": 20732.052219053727,
+        "GDPGrowth": 5.9137083094686,
+        "Country": "Greece"
+    },
+    {
+        "population": 17703090,
+        "populationGrowth": 0.965187157604983,
+        "GDP": 991114635529.187,
+        "GDPPerCapita": 55985.40342557074,
+        "GDPGrowth": 4.47824000062991,
+        "Country": "Netherlands"
+    },
+    {
+        "population": 1344768,
+        "populationGrowth": 1.03420587678448,
+        "GDP": 38100812958.5196,
+        "GDPPerCapita": 28332.629091798437,
+        "GDPGrowth": -1.28741134050431,
+        "Country": "Estonia"
+    },
+    {
+        "population": 5903037,
+        "populationGrowth": 0.787502464739957,
+        "GDP": 395403906582.001,
+        "GDPPerCapita": 66983.13200171386,
+        "GDPGrowth": 3.81901774679091,
+        "Country": "Denmark"
+    },
+    {
+        "population": 25978935,
+        "populationGrowth": 1.12589851822075,
+        "GDP": 1675418665067.09,
+        "GDPPerCapita": 64491.42988606308,
+        "GDPGrowth": 3.61758857230203,
+        "Country": "Australia"
+    },
+    {
+        "population": 33475870,
+        "populationGrowth": 1.93898294382388,
+        "GDP": 72838798787.7066,
+        "GDPPerCapita": 2175.8597696701117,
+        "GDPGrowth": 3.23970626334574,
+        "Country": "Ghana"
+    },
+    {
+        "population": 98186856,
+        "populationGrowth": 0.734794057662508,
+        "GDP": 408802379068.229,
+        "GDPPerCapita": 4163.514300409303,
+        "GDPGrowth": 8.01979845814972,
+        "Country": "Vietnam"
+    },
+    {
+        "population": 127504125,
+        "populationGrowth": 0.628607802526073,
+        "GDP": 1414187193992.25,
+        "GDPPerCapita": 11091.305430253728,
+        "GDPGrowth": 3.0623801901065,
+        "Country": "Mexico"
+    },
+    {
+        "population": 4268873,
+        "populationGrowth": 0.44040518714903,
+        "GDP": 184558274288.737,
+        "GDPPerCapita": 43233.48909389832,
+        "GDPGrowth": 8.17775584614964,
+        "Country": "Kuwait"
+    },
+    {
+        "population": 44903225,
+        "populationGrowth": 1.62833925417918,
+        "GDP": 191912889420.911,
+        "GDPPerCapita": 4273.922183115155,
+        "GDPGrowth": 3.09999999986282,
+        "Country": "Algeria"
+    },
+    {
+        "population": 35648100,
+        "populationGrowth": 2.07764491149254,
+        "GDP": 80391853884.764,
+        "GDPPerCapita": 2255.151154893641,
+        "GDPGrowth": 5.66881705490789,
+        "Country": "Uzbekistan"
+    },
+    {
+        "population": 66971411,
+        "populationGrowth": -0.0819252846341849,
+        "GDP": 3070667732359.21,
+        "GDPPerCapita": 45850.42612226297,
+        "GDPGrowth": 4.10162138081358,
+        "Country": "United Kingdom"
+    },
+    {
+        "population": 3854000,
+        "populationGrowth": -0.646581846565545,
+        "GDP": 70964606464.6427,
+        "GDPPerCapita": 18413.234682055707,
+        "GDPGrowth": 6.33133629634182,
+        "Country": "Croatia"
+    },
+    {
+        "population": 18956666,
+        "populationGrowth": -0.85729939702614,
+        "GDP": 301261582924.085,
+        "GDPPerCapita": 15892.118525698825,
+        "GDPGrowth": 4.79219035098895,
+        "Country": "Romania"
+    },
+    {
+        "population": 44496122,
+        "populationGrowth": 2.18691693437269,
+        "GDP": 264182173793.103,
+        "GDPPerCapita": 5937.1954660027,
+        "GDPGrowth": 7.00874522294257,
+        "Country": "Iraq"
+    },
+    {
+        "population": 3233526,
+        "populationGrowth": -1.15051398459433,
+        "GDP": 24527507287.7962,
+        "GDPPerCapita": 7585.375001715217,
+        "GDPGrowth": 3.89680774245646,
+        "Country": "Bosnia and Herzegovina"
+    },
+    {
+        "population": 10486941,
+        "populationGrowth": 0.68058286829853,
+        "GDP": 585939170123.856,
+        "GDPPerCapita": 55873.22081089766,
+        "GDPGrowth": 2.6422167398257,
+        "Country": "Sweden"
+    },
+    {
+        "population": 215313498,
+        "populationGrowth": 0.459583548488331,
+        "GDP": 1920095560995.06,
+        "GDPPerCapita": 8917.673897969276,
+        "GDPGrowth": 2.90053061522693,
+        "Country": "Brazil"
+    },
+    {
+        "population": 47615034,
+        "populationGrowth": 0.419409971667468,
+        "GDP": 1397509272054.48,
+        "GDPPerCapita": 29350.16852144808,
+        "GDPGrowth": 5.45173962343239,
+        "Country": "Spain"
+    },
+    {
+        "population": 8769741,
+        "populationGrowth": 0.759294504887122,
+        "GDP": 807706035351.75,
+        "GDPPerCapita": 92101.4697414382,
+        "GDPGrowth": 2.05923242019972,
+        "Country": "Switzerland"
+    },
+    {
+        "population": 54179306,
+        "populationGrowth": 0.706117426957398,
+        "GDP": 59364362540.5524,
+        "GDPPerCapita": 1095.7017895458534,
+        "GDPGrowth": 3.00267834086408,
+        "Country": "Myanmar"
+    },
+    {
+        "population": 22181000,
+        "populationGrowth": 0.112772639779474,
+        "GDP": 74403578363.4355,
+        "GDPPerCapita": 3354.3834075756504,
+        "GDPGrowth": -7.82397732646906,
+        "Country": "Sri Lanka"
+    },
+    {
+        "population": 10379007,
+        "populationGrowth": 0.520283238781222,
+        "GDP": 251945377529.388,
+        "GDPPerCapita": 24274.51658230773,
+        "GDPGrowth": 6.68575118403605,
+        "Country": "Portugal"
+    },
+    {
+        "population": 59893885,
+        "populationGrowth": 0.841058243677696,
+        "GDP": 405869718462.343,
+        "GDPPerCapita": 6776.4800774293235,
+        "GDPGrowth": 2.04229935251898,
+        "Country": "South Africa"
+    },
+    {
+        "population": 2057679,
+        "populationGrowth": -0.359612890884782,
+        "GDP": 13563132057.2486,
+        "GDPPerCapita": 6591.4712922902945,
+        "GDPGrowth": 2.14665647284551,
+        "Country": "North Macedonia"
+    },
+    {
+        "population": 6430770,
+        "populationGrowth": 1.39229698415698,
+        "GDP": null,
+        "GDPPerCapita": 0,
+        "GDPGrowth": null,
+        "Country": "Turkmenistan"
+    },
+    {
+        "population": 6465097,
+        "populationGrowth": -6.18725298204958,
+        "GDP": 89040398406.3745,
+        "GDPPerCapita": 13772.476794450957,
+        "GDPGrowth": 3.36125275175223,
+        "Country": "Bulgaria"
+    },
+    {
+        "population": 11669446,
+        "populationGrowth": 0.657664577068916,
+        "GDP": 578604103123.349,
+        "GDPPerCapita": 49582.825364918695,
+        "GDPGrowth": 3.24783720657268,
+        "Country": "Belgium"
+    },
+    {
+        "population": 38929902,
+        "populationGrowth": 1.82337042206996,
+        "GDP": 2139840023673.81,
+        "GDPPerCapita": 54966.48883610881,
+        "GDPGrowth": 3.39620227946682,
+        "Country": "Canada"
+    },
+    {
+        "population": 1472233,
+        "populationGrowth": 0.611005553402689,
+        "GDP": 44390820478.7234,
+        "GDPPerCapita": 30152.034683860093,
+        "GDPGrowth": 4.86085827172992,
+        "Country": "Bahrain"
+    },
+    {
+        "population": 11285869,
+        "populationGrowth": 1.22663656612596,
+        "GDP": 47451499859.1549,
+        "GDPPerCapita": 4204.505639676918,
+        "GDPGrowth": 2.50379638426071,
+        "Country": "Jordan"
+    },
+    {
+        "population": 2833000,
+        "populationGrowth": 1.14172056940334,
+        "GDP": 70334299008.3797,
+        "GDPPerCapita": 24826.79103719721,
+        "GDPGrowth": 1.88779539520947,
+        "Country": "Lithuania"
+    },
+    {
+        "population": 38000000,
+        "populationGrowth": -14.1884516495338,
+        "GDP": 160502739236.097,
+        "GDPPerCapita": 4223.756295686762,
+        "GDPGrowth": -29.1,
+        "Country": "Ukraine"
+    },
+    {
+        "population": 10526073,
+        "populationGrowth": 0.193050170395183,
+        "GDP": 290923534700.518,
+        "GDPPerCapita": 27638.373275628812,
+        "GDPGrowth": 2.4609192430561,
+        "Country": "Czech Republic"
+    },
+    {
+        "population": 5180829,
+        "populationGrowth": 0.520031291578434,
+        "GDP": 68380838316.2777,
+        "GDPPerCapita": 13198.821716809744,
+        "GDPGrowth": 4.30501579784834,
+        "Country": "Costa Rica"
+    },
+    {
+        "population": 6760087,
+        "populationGrowth": -1.09220954239765,
+        "GDP": 63501748652.2968,
+        "GDPPerCapita": 9393.628906299105,
+        "GDPGrowth": 2.25144856461867,
+        "Country": "Serbia"
+    },
+    {
+        "population": 6336392,
+        "populationGrowth": 0.351368233858255,
+        "GDP": 32488720000,
+        "GDPPerCapita": 5127.321668230122,
+        "GDPGrowth": 2.60023991827281,
+        "Country": "El Salvador"
+    },
+    {
+        "population": 115559009,
+        "populationGrowth": 1.46331572990702,
+        "GDP": 404284327311.713,
+        "GDPPerCapita": 3498.5098159825257,
+        "GDPGrowth": 7.57033248818529,
+        "Country": "Philippines"
+    },
+    {
+        "population": 6803300,
+        "populationGrowth": 1.6524892336192,
+        "GDP": 10930644915.2401,
+        "GDPPerCapita": 1606.6680750871049,
+        "GDPGrowth": 7.02220882554305,
+        "Country": "Kyrgyzstan"
+    },
+    {
+        "population": 36408820,
+        "populationGrowth": 1.2670953577821,
+        "GDP": 1108148978218.49,
+        "GDPPerCapita": 30436.27830340258,
+        "GDPGrowth": 8.7441536283484,
+        "Country": "Saudi Arabia"
+    },
+    {
+        "population": 123379924,
+        "populationGrowth": 2.54208920295403,
+        "GDP": 126783472501.134,
+        "GDPPerCapita": 1027.5859182822483,
+        "GDPGrowth": 5.31709602984485,
+        "Country": "Ethiopia"
+    },
+    {
+        "population": 22593590,
+        "populationGrowth": 3.09520925424978,
+        "GDP": 18827176532.3169,
+        "GDPPerCapita": 833.297255208973,
+        "GDPGrowth": 3.68748409792643,
+        "Country": "Mali"
+    },
+    {
+        "population": 143555736,
+        "populationGrowth": 0.0741798900517637,
+        "GDP": 2240422438363.27,
+        "GDPPerCapita": 15606.638235362954,
+        "GDPGrowth": -2.06971152527731,
+        "Country": "Russia"
+    },
+    {
+        "population": 37561599,
+        "populationGrowth": -0.492706204342365,
+        "GDP": 688176605954.787,
+        "GDPPerCapita": 18321.280889953247,
+        "GDPGrowth": 4.87402357909336,
+        "Country": "Poland"
+    },
+    {
+        "population": 18001000,
+        "populationGrowth": 1.13559975243065,
+        "GDP": 115049476000,
+        "GDPPerCapita": 6391.282484306427,
+        "GDPGrowth": 2.94766863298817,
+        "Country": "Ecuador"
+    },
+    {
+        "population": 171186372,
+        "populationGrowth": 1.0748367431585,
+        "GDP": 460201000095.101,
+        "GDPPerCapita": 2688.303950358274,
+        "GDPGrowth": 7.09982877575158,
+        "Country": "Bangladesh"
+    },
+    {
+        "population": 5637022,
+        "populationGrowth": 3.30862052439523,
+        "GDP": 466788539651.836,
+        "GDPPerCapita": 82807.64908347634,
+        "GDPGrowth": 3.64697207108541,
+        "Country": "Singapore"
+    },
+    {
+        "population": 9441129,
+        "populationGrowth": 0.808075150558113,
+        "GDP": 507534921715.453,
+        "GDPPerCapita": 53757.86325083081,
+        "GDPGrowth": 7.41110320184745,
+        "Country": "United Arab Emirates"
+    },
+    {
+        "population": 5457127,
+        "populationGrowth": 0.898395220610608,
+        "GDP": 579267365866.343,
+        "GDPPerCapita": 106148.77862771803,
+        "GDPGrowth": 3.28055765442825,
+        "Country": "Norway"
+    },
+    {
+        "population": 9550600,
+        "populationGrowth": 1.96566785310566,
+        "GDP": 522033446211.625,
+        "GDPPerCapita": 54659.753964318996,
+        "GDPGrowth": 6.4646684464545,
+        "Country": "Israel"
+    },
+    {
+        "population": 1417173173,
+        "populationGrowth": 0.680372581057012,
+        "GDP": 3385089881935.39,
+        "GDPPerCapita": 2388.621197767614,
+        "GDPGrowth": 7.00295154446648,
+        "Country": "India"
+    },
+    {
+        "population": 12224110,
+        "populationGrowth": 1.1902748132628,
+        "GDP": 43068885672.9378,
+        "GDPPerCapita": 3523.2737330519603,
+        "GDPGrowth": 3.07005464392225,
+        "Country": "Bolivia"
+    },
+    {
+        "population": 41128771,
+        "populationGrowth": 2.53449831666733,
+        "GDP": null,
+        "GDPPerCapita": 0,
+        "GDPGrowth": null,
+        "Country": "Afghanistan"
+    },
+    {
+        "population": 88550570,
+        "populationGrowth": 0.710745642903734,
+        "GDP": 388544468139.733,
+        "GDPPerCapita": 4387.825715178717,
+        "GDPGrowth": 2.74916614074989,
+        "Country": "Iran"
+    },
+    {
+        "population": 13859341,
+        "populationGrowth": 2.39091413366776,
+        "GDP": 21227749388.7287,
+        "GDPPerCapita": 1531.656475493943,
+        "GDPGrowth": 4.69999999999999,
+        "Country": "Guinea"
+    },
+    {
+        "population": 3398366,
+        "populationGrowth": 1.49966908606271,
+        "GDP": 16810883360.913,
+        "GDPPerCapita": 4946.754811257234,
+        "GDPGrowth": 4.84590820308712,
+        "Country": "Mongolia"
+    },
+    {
+        "population": 235824862,
+        "populationGrowth": 1.89324559780014,
+        "GDP": 376532751806.989,
+        "GDPPerCapita": 1596.662661492362,
+        "GDPGrowth": 6.18815547351159,
+        "Country": "Pakistan"
+    },
+    {
+        "population": 34049588,
+        "populationGrowth": 0.986112053718798,
+        "GDP": 242631549613.268,
+        "GDPPerCapita": 7125.829235092889,
+        "GDPGrowth": 2.68387143477631,
+        "Country": "Peru"
+    },
+    {
+        "population": 67935660,
+        "populationGrowth": 0.27420527872655,
+        "GDP": 2782905325624.52,
+        "GDPPerCapita": 40963.83733704096,
+        "GDPGrowth": 2.5623935644647,
+        "Country": "France"
+    },
+    {
+        "population": 149996,
+        "populationGrowth": -1.56965834139861,
+        "GDP": null,
+        "GDPPerCapita": 0,
+        "GDPGrowth": null,
+        "Country": "Curaçao"
+    },
+    {
+        "population": 85341241,
+        "populationGrowth": 0.665236593056155,
+        "GDP": 905987824096.127,
+        "GDPPerCapita": 10616.06104481334,
+        "GDPGrowth": 5.56586003977017,
+        "Country": "Turkey"
+    },
+    {
+        "population": 1251488,
+        "populationGrowth": 0.585013504929064,
+        "GDP": 28439052740.8561,
+        "GDPPerCapita": 22724.191315343094,
+        "GDPGrowth": 5.63214801919504,
+        "Country": "Cyprus"
+    },
+    {
+        "population": 333287557,
+        "populationGrowth": 0.377564531459432,
+        "GDP": 25462700000000,
+        "GDPPerCapita": 76398.59174220536,
+        "GDPGrowth": 2.06159311851432,
+        "Country": "United States"
+    },
+    {
+        "population": 58856847,
+        "populationGrowth": -0.428632459102514,
+        "GDP": 2010431598465.38,
+        "GDPPerCapita": 34157.990122464085,
+        "GDPGrowth": 3.67468325490428,
+        "Country": "Italy"
+    },
+    {
+        "population": 1761985,
+        "populationGrowth": -1.35587443993054,
+        "GDP": 9429156201.95851,
+        "GDPPerCapita": 5351.439542310808,
+        "GDPGrowth": 3.51170669162084,
+        "Country": "Kosovo"
+    },
+    {
+        "population": 19621972,
+        "populationGrowth": 3.21589809559657,
+        "GDP": 220623001966.686,
+        "GDPPerCapita": 11243.671225638585,
+        "GDPGrowth": 3.19999999968607,
+        "Country": "Kazakhstan"
+    },
+    {
+        "population": 9952787,
+        "populationGrowth": 2.05787633614157,
+        "GDP": 10492123387.7931,
+        "GDPPerCapita": 1054.1894835881749,
+        "GDPGrowth": 7.99999999999999,
+        "Country": "Tajikistan"
+    }
+]
